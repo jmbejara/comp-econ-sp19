@@ -1,28 +1,31 @@
 ECON 21410: Computational Methods in Economics
 ==============================================
 
-# Syllabus
+# Syllabus Summary
 
 [The full class syllabus can be found here.](https://github.com/jmbejara/comp-econ-sp18/blob/master/Syllabus-Computational-Economics.pdf)
 
 * **Class:** Tuesdays and Thursdays, 3:30 - 4:50 PM in SHFE 103
-* **TA Session:** Mondays 7:30-8:30 PM in SHFE 103
+* **TA Session:** Wednesday 5:30-6:20 PM in SHFE 203
 * **Lecturer:** Jeremy Bejarano, jbejarano@uchicago.edu
-* **Office Hours:** by appointment
-* **Teaching Assistant:** Philip Xinyu Cao, xinyucao@uchicago.edu
-* **TA Office Hours:** Mondays, 1:45-2:45, in the graduate commons (SHFE 201)
-* **Website:** Canvas will be used for grades. Homeworks and notes will be posted on the course GitHub repo: https://github.com/jmbejara/comp-econ-sp18
+* **Office Hours:** TBD, in the graduate commons (SHFE 201)
+* **Teaching Assistant:** Ari Boyarsky, aboyarsky@uchicago.edu
+* **TA Office Hours:** TBD
+* **Website:** Canvas will be used for grades. Homework and notes will be posted on the course GitHub repo: https://github.com/jmbejara/comp-econ-sp18
 
 # Notes
 
 There should be about 19 classes and 9 TA sessions (first Monday excluded). This means that we have 28 in-class sessions total before the reading period.
 
+## Exams
 
-* We will have one midterm. It will take place on Monday, April 30 during the regularly scheduled TA session, 7:30-8:30 PM in SHFE 103.
-* Read the lectures ahead of time. The lectures (from, e.g., QuantEcon or the Python Data Science Handbook) have hyperlinks to the appropriate text.
-* Solutions to the homework will be posted in a separate GitHub repo, found here: https://github.com/econ-21410-sp18/comp-econ-hw-jbejarano1 
+ * Midterm Exam: Thursday, April 25. The exam will take place during class, 3:30-4:50 PM
+in SHFE 103.
+ * Final Exam: Tuesday, June 13th, 4-6pm (See the registrar’s site for more details.)
 
 **Books Used**
+
+We will mostly used notes that I will provide. Sometimes we will cover lectures from the following sources:
 
 * [Lectures in ](https://lectures.quantecon.org/)[Quantitative Economics](https://lectures.quantecon.org/), by Thomas J. Sargent and John Stachurski (QuantEcon)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas (PDSH)
@@ -35,20 +38,11 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
 
 # Schedule
 
+The schedule is listed in the ["lectures" directory](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures). Each day of lecture has its own directory. The agenda for each particular day is described in the readme file within each day's directory. For example, the agenda for the first class can be found [here](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-2_Introduction) and the agenda for the second day can be found [here](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-4_QE-An_Introductory_Example). 
+
 ## Introduction to Python, Git, and GitHub
 
-* **Class 1: Tuesday, March 27**
-    * Introduction and Course Overview
-        * Review syllabus. Talk about course content.
-        * Demonstrate how course will be using GitHub. Show how to download assignments. Full Git tutorial will be next class.
-        * Establish times for TA Sessions and for Python Crash Course
-    * Go over points from [Gentzkow and Shapiro’s *Practitioner’s Guide*](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
-    * [QuantEcon: "About Python](https://lectures.quantecon.org/py/about_py.html)"
-        * Include demos. These should include interactive plots, widgets, LaTeX
-    * Python Basics Pretest (in class assessment)
-        * I will be holding a few hours of lectures on Saturday to go over “A Whirlwind Tour of Python.” I will help students with the assignment.
-    * *Distribute Assignment 0*
-        * [You can find HW 0 here.](./HW/hw-00/readme.md)
+
 * **Class 2: Thursday, March 29**
     * **Do Before Class:**
         * [Download GitKraken](https://www.gitkraken.com/)
