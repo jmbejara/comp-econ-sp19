@@ -9,3 +9,5 @@ Start going over the Pandas chapter from "Python Data Science Handbook"
  - `03.01-Introducing-Pandas-Objects.ipynb`
  - `03.02-Data-Indexing-and-Selection.ipynb`
  - `03.03-Operations-in-Pandas.ipynb`
+ - Go over how to use Quandl. Go through [quandl-tutorial.ipynb](./quandl-tutorial.ipynb)
+ - In class exercise: [occupations.ipynb](./occupations.ipynb)
