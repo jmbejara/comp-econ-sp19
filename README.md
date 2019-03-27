@@ -30,7 +30,8 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
 
 **Assignments**
 
-* Assignments must be turned in before midnight on the day that they are due. This means that you must submit your pull request on GitHub at 11:59pm or earlier on the due date (usually a Monday). Late assignments will not be accepted.
+* Assignments must be turned in before midnight on the day that they are due. This means that you must submit to GitHub at 11:59pm or earlier on the due date (usually a Monday). Late assignments will not be accepted.
+* Solutions to the homework will be posted in a separate GitHub repo, found here: https://github.com/econ-21410/hw-jbejarano1 
 
 # Schedule
 
