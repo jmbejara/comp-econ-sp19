@@ -38,10 +38,10 @@ We will mostly used notes that I will provide. Sometimes we will cover lectures 
 
 # Schedule
 
-The schedule is listed in the ["lectures" directory](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures). Each day of lecture has its own directory. The agenda for each particular day is described in the readme file within each day's directory. For example, the agenda for the first class can be found [here](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-2_Introduction) and the agenda for the second day can be found [here](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-4_QE-An_Introductory_Example). 
+The schedule is listed in the ["lectures" directory](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures). Each day of lecture has its own directory. The agenda for each particular day is described in the readme file within each day's directory. For example, the agenda for the first class can be found [here](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-02_Introduction) and the agenda for the second day can be found [here](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-04_QE-An_Introductory_Example). 
 
 **Important: the agenda for each day includes tasks that you should do before lecture to prepare**
-Please be sure to go over the agenda and do all of the tasks that need to be done before you come to class. These tasks are important to do beforehand so that you will be able to fully participate in that day's lecture. For example, on the [agenda for the first day](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-2_Introduction) you need to do the following:
+Please be sure to go over the agenda and do all of the tasks that need to be done before you come to class. These tasks are important to do beforehand so that you will be able to fully participate in that day's lecture. For example, on the [agenda for the first day](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-02_Introduction) you need to do the following:
 
 * Familiarize yourself with the first homework assignment. This assignment is due on Monday, but you should start ASAP. In particular, you should install all the required software so that you can follow along with lectures.
 

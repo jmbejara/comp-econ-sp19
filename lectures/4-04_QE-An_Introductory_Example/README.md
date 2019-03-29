@@ -1,7 +1,7 @@
 An introductory example
 =======================
 
-**Do Before Class:**
+* **Do Before Class:**
     * [Download GitKraken](https://www.gitkraken.com/)
     * Watch the following two YouTube videos about Git:
         * [https://www.youtube.com/watch?v=K0mgc3efx-A](https://www.youtube.com/watch?v=K0mgc3efx-A)
