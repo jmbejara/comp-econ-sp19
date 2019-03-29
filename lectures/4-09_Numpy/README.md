@@ -1,4 +1,4 @@
-Lecture 4/3 - Class 3
+Numpy
 ======================
 
  - Today's lecture will focus on learning the Numpy module. We will work through the lecture part of [QuantEcon: "Numpy"](https://lectures.quantecon.org/py/numpy.html)

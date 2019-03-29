@@ -1,4 +1,4 @@
-Lecture 4/10 - Class 5
+Pandas Intro
 ======================
 
  - Review Homework 1

@@ -1,5 +1,10 @@
 # Introduction
 
+
+* **To do before class:**
+
+    * Familiarize yourself with the first homework assignment. This assignment is due on Monday, but you should start ASAP. In particular, you should install all the required software so that you can follow along with lectures. [You can find HW 0 here.](./HW/hw-00/readme.md)
+
 * **Class 1:**
     * Introduction and Course Overview
         * Review syllabus. Talk about course content.

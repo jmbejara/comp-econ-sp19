@@ -1,5 +1,5 @@
-Lecture 5/1
-===========
+Visualization
+==============
 
 * To talk about:
     * Color Maps
