@@ -40,76 +40,8 @@ We will mostly used notes that I will provide. Sometimes we will cover lectures 
 
 The schedule is listed in the ["lectures" directory](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures). Each day of lecture has its own directory. The agenda for each particular day is described in the readme file within each day's directory. For example, the agenda for the first class can be found [here](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-2_Introduction) and the agenda for the second day can be found [here](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-4_QE-An_Introductory_Example). 
 
-## Introduction to Python, Git, and GitHub
+**Important: the agenda for each day includes tasks that you should do before lecture to prepare**
+Please be sure to go over the agenda and do all of the tasks that need to be done before you come to class. These tasks are important to do beforehand so that you will be able to fully participate in that day's lecture. For example, on the [agenda for the first day](https://github.com/jmbejara/comp-econ-sp19/tree/master/lectures/4-2_Introduction) you need to do the following:
 
+* Familiarize yourself with the first homework assignment. This assignment is due on Monday, but you should start ASAP. In particular, you should install all the required software so that you can follow along with lectures.
 
-* **Class 2: Thursday, March 29**
-    * **Do Before Class:**
-        * [Download GitKraken](https://www.gitkraken.com/)
-        * Watch the following two YouTube videos about Git:
-            * [https://www.youtube.com/watch?v=K0mgc3efx-A](https://www.youtube.com/watch?v=K0mgc3efx-A)
-            * [https://www.youtube.com/watch?v=M-O8ZNW9ic](https://www.youtube.com/watch?v=M-O8ZNW9icQ)[Q](https://www.youtube.com/watch?v=M-O8ZNW9icQ)
-    * ["QuantEcon: “An Introductory Example"](https://lectures.quantecon.org/py/python_by_example.html)
-    * Git, GitHub, and GitHub Classroom
-        * Go over how we will be using Git and GitHub in this class.
-        * Download GitKraken. Do in-class Git assignment
-        * Demonstrate GitHub README system. Teach basics of Markdown
-* **Python Crash Course: Saturday, March 31.**
-    * Work through [QuantEcon: "Python Essentials"](https://lectures.quantecon.org/py/python_essentials.html)
-    * Saturday, March 31 from 12-2pm in Saieh 146. 
-* **Class 2a: Monday, April 2**
-    * [QuantEcon: "Setting up Your Python Environment"](https://lectures.quantecon.org/py/getting_started.html)
-    * **Due: Assignment 0**
-    * *Distribute Assignment 1*
-        * Practice with Numpy, SciPy, and Matplotlib
-* **Class 3: Tuesday, April 3**
-    * [QuantEcon: "Numpy"](https://lectures.quantecon.org/py/numpy.html)
-    * [QuantEcon: "Matplotlib"](https://lectures.quantecon.org/py/matplotlib.html)
-* **Class 4: Thursday, April 5**
-    * [QuantEcon: "SciPy"](https://lectures.quantecon.org/py/scipy.html)
-* **Class 4a: Monday, April 9**
-    * [QuantEcon: "Object Oriented Programming I"](https://lectures.quantecon.org/py/oop_intro.html)
-    * [QuantEcon: "Object Oriented Programming II"](https://lectures.quantecon.org/py/python_oop.html)
-    * **Due: Assignment 1**
-    * *Distribute Assignment 2*
-        * Pandas Basics
-
-## Data Wrangling with Python
-
-* **Class 5: [Tuesday, April 10](./lectures/4-10_Pandas_Intro)**
-    * Introduction to Pandas
-* **Class 6: [Thursday, April 12](./lectures/4-12_Pandas_Intro_Continued)**
-    * Quandl
-    * Introduction to Pandas, continued
-    * In-Class Exercise (occupations notebook)
-    * [PDSH: "Handling Missing Data"](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html)  (read on your own)
-* **Class 6a: [Monday, April 16](./lectures/4-16_TA_Session)**
-    * Go over any questions from HW 2
-    * [PDSH: "Hierarchical Indexing"](https://jakevdp.github.io/PythonDataScienceHandbook/03.05-hierarchical-indexing.html)
-    * **Due Assignment 2**
-    * *Distribute Assignment 3*
-        * Data Munging with Pandas
-* **Class 7: [Tuesday, April 17](./lectures/4-17_Combining_Datasets)**
-    * [PDSH: "Combining Datasets: Concat and Append"](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
-    * [PDSH: "Combining Datasets: Merge and Join"](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html)
-    * [PDA: "Data Loading, Storage, and File Formats"](http://nbviewer.jupyter.org/github/pydata/pydata-book/blob/2nd-edition/ch06.ipynb) 
-    * [QuantEcon: Writing Good Code](https://lectures.quantecon.org/py/writing_good_code.html) (Read on your own)
-* **Class 8: [Thursday, April 19](./lectures/4-19_Aggregation_and_Grouping)**
-    * [PDSH: "Aggregation and Grouping"](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html)
-    * [PDSH: "Pivot Tables"](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html)
-    * [PDSH: "High-Performance Pandas: eval() and query()"](https://jakevdp.github.io/PythonDataScienceHandbook/03.12-performance-eval-and-query.html)
-* **Class 8a: [Monday, April 23](./lectures/4-23_TA_Session)**
-    * [PDSH: "Vectorized String Operations"](https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html)
-    * **Due Assignment 3**
-    * *Distribute Assignment 4*
-        * Summarizing and Visualizing Data
-* **Class 9: [Tuesday, April 24](./lectures/4-24_Time_Series)**
-    * [PDSH: "Working with Time Series"](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html)
-    * [PDSH: "Further Resources"](https://jakevdp.github.io/PythonDataScienceHandbook/03.13-further-resources.html) (Read on your own.)
-* **Class 10: [Thursday, April 26](./lectures/4-26_Visualization)**
-    * Data visualization with Python
-* **Class 10a: Monday, April 30**
-    * **Midterm**
-    * In-Class midterm, starts at 7:30. You will need to bring your laptop with you to complete the midterm. The midterm will be similar to the HW assignments.signments.
-
-## Econometrics with Python (and R)
