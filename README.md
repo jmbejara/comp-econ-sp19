@@ -3,7 +3,7 @@ ECON 21410: Computational Methods in Economics
 
 # Syllabus Summary
 
-[The full class syllabus can be found here.](https://github.com/jmbejara/comp-econ-sp18/blob/master/Syllabus-Computational-Economics.pdf)
+[The full class syllabus can be found here.](https://github.com/jmbejara/comp-econ-sp19/blob/master/Syllabus-Computational-Economics.pdf)
 
 * **Class:** Tuesdays and Thursdays, 3:30 - 4:50 PM in SHFE 103
 * **TA Session:** Wednesday 5:30-6:20 PM in SHFE 203
