@@ -15,5 +15,6 @@
         * Include demos. These should include interactive plots, widgets, LaTeX
     * Python Basics Pretest (in class assessment)
         * I will be holding a few hours of lectures on Saturday to go over “A Whirlwind Tour of Python.” I will help students with the assignment.
+    * Start [QuantEcon: "An Introductory Example"](https://lectures.quantecon.org/py/python_by_example.html). The Jupyter notebook files is included in this directory [here.](./python_by_example.ipynb)
     * *Distribute Assignment 0*
         * [You can find HW 0 here.](./HW/hw-00/readme.md)
