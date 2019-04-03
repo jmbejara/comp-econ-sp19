@@ -1,7 +1,7 @@
 HW 0
 ====
 
-This assignment is due on Monday and must be submitted before 11:59 pm on April 8st. Please submit your writeup
+This assignment is due on Monday and must be submitted before 11:59 pm on April 8th. Please submit your writeup
 by committing it to the appropriate holder in your private GitHub repository. We will discuss how to do this in class on 
 Thursday.
 
