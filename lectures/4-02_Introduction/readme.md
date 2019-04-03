@@ -7,7 +7,7 @@
 
 * **Class 1:**
     * Introduction and Course Overview
-        * Review syllabus. Talk about course content.
+        * Review syllabus. Talk about course content. Agenda for this part is in the slideshow ["introduction-to-class.pdf"](./introduction-to-class.pdf)
         * Demonstrate how course will be using GitHub. Show how to download assignments. Full Git tutorial will be next class.
         * Establish times for TA Sessions and for Python Crash Course
     * Go over points from [Gentzkow and Shapiro’s *Practitioner’s Guide*](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
