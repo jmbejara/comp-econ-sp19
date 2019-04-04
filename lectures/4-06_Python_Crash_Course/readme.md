@@ -1,9 +1,13 @@
-Lecture 3/31 - Python Crash Course
-======================
+Lecture 4/6 - Python Crash Course
+==================================
 
-
- - Discuss how to use Anaconda, Jupyter Notebooks, and JupyterLab
- - Clone class repo on Github
- - [QuantEcon: "Python Essentials"](https://lectures.quantecon.org/py/python_essentials.html)
- - Submitting Assignments on GitHub (the easy way)
- - If time remains, go back to QuantEcon: "An Introductory Example".
+* Finish "QuantEcon: Introductory Example"
+    * ["QuantEcon: “An Introductory Example"](https://lectures.quantecon.org/py/python_by_example.html)
+    * Make sure everyone can follow along on their laptop (Google Colaboratory)
+    * "for" loops, "while" loops, list comprehension, Python lists, random number generators, conditional statements
+    * Do exercises 1,5,6
+    * For practice, do questions 2, 3, and 4 of "QuantEcon: Introductory example" on your own later.
+* Discuss how to use Anaconda, Jupyter Notebooks, and JupyterLab if needed (covered this in TA session on Wednesday)
+* Make sure everyone was able to clone class repo on Github
+* [QuantEcon: "Python Essentials"](https://lectures.quantecon.org/py/python_essentials.html)
+* Submitting Assignments on GitHub (the easy way)
