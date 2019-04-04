@@ -1,6 +1,8 @@
 Lecture 4/6 - Python Crash Course
 ==================================
 
+This crash course is to help students who have little experience with Python and Jupyter to quickly get up to speed. It will take place on Saturday, 12-2 pm, in SHFE 103
+
 * Finish "QuantEcon: Introductory Example"
     * ["QuantEcon: “An Introductory Example"](https://lectures.quantecon.org/py/python_by_example.html)
     * Make sure everyone can follow along on their laptop (Google Colaboratory)
