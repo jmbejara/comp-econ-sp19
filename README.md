@@ -45,3 +45,7 @@ Please be sure to go over the agenda and do all of the tasks that need to be don
 
 * Familiarize yourself with the first homework assignment. This assignment is due on Monday, but you should start ASAP. In particular, you should install all the required software so that you can follow along with lectures.
 
+
+# Git Test 
+
+This is a change.
