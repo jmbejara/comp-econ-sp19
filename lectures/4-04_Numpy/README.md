@@ -11,6 +11,7 @@ Today's lecture will focus on learning the Numpy module. Before we start, we wil
 
 **Quick Git Setup**
 
+* Be sure to "watch" the class repo to get updates (e.g., from the issue tracker)
 * Clone class repo from GitHub using GitKraken
     * Demonstrate how updating the repo works. (I'll make a quick test change to the repo during class)
 * Quick overview of [GitKraken interface](https://support.gitkraken.com/start-here/interface)
