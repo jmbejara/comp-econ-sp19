@@ -6,11 +6,11 @@ ECON 21410: Computational Methods in Economics
 [The full class syllabus can be found here.](https://github.com/jmbejara/comp-econ-sp19/blob/master/Syllabus-Computational-Economics.pdf)
 
 * **Class:** Tuesdays and Thursdays, 3:30 - 4:50 PM in SHFE 103
-* **TA Session:** TBD
+* **TA Session:** Tuesdays, 5-6 pm in TBD
 * **Lecturer:** Jeremy Bejarano, jbejarano@uchicago.edu
 * **Office Hours:** Wednesday 5:30-6:20 PM in SHFE 203
 * **Teaching Assistant:** Ari Boyarsky, aboyarsky@uchicago.edu
-* **TA Office Hours:** TBD
+* **TA Office Hours:** Mondays, 10-11 am in the graduate commons (Saieh 201)
 * **Website:** Canvas will be used for grades. Homework and notes will be posted on the course GitHub repo: https://github.com/jmbejara/comp-econ-sp18
 
 # Notes
