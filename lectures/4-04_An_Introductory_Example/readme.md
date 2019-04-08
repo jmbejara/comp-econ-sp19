@@ -1,9 +1,9 @@
-Numpy
-=====
+An Introductory Example
+=======================
 
 * **Do Before Class:**
     * [Download and install GitKraken](https://www.gitkraken.com/)
-    * Read over the [Numpy lecture on the QuantEcon](https://lectures.quantecon.org/py/numpy.html) site.
+    * Read over the [Introductory Example lecture on the QuantEcon](https://lectures.quantecon.org/py/python_by_example.html) site.
 
 ## Agenda
 
@@ -16,10 +16,12 @@ Today's lecture will focus on learning the Numpy module. Before we start, we wil
     * Demonstrate how updating the repo works. (I'll make a quick test change to the repo during class)
 * Quick overview of [GitKraken interface](https://support.gitkraken.com/start-here/interface)
 * Create HW repo that we will use in class. (The code for the appropriate link is in the "misc" folder: `misc/setting-up-hw-repo`). 
-    * Clone HW repo. Complete practice assignment (`hw-example`), commit the changes, and push commit.
+    * Clone HW repo. Complete practice assignment `hw-example` (just copy and paste the solutions that I provided), commit the changes, and push commit.
 
-**Intoduction to Numpy**
+* Finish "QuantEcon: Introductory Example"
+    * ["QuantEcon: “An Introductory Example"](https://lectures.quantecon.org/py/python_by_example.html)
+    * Make sure everyone can follow along on their laptop (Google Colaboratory)
+    * "for" loops, "while" loops, list comprehension, Python lists, random number generators, conditional statements
+    * Do exercises 1,5,6
+    * For practice, do questions 2, 3, and 4 of "QuantEcon: Introductory example" on your own later.
 
-*  We will work through the lecture part of [QuantEcon: "Numpy"](https://lectures.quantecon.org/py/numpy.html)
-    * Go over the rest of the QuantEcon Numpy lecture in the Python Crash-course on Saturday.
-    * We will not solve the exercises at the end of the Numpy lecture. Instead, we will work through some simple portfolio calculations in [portfolio-calculations.ipynb](./portfolio-calculations.ipynb).
