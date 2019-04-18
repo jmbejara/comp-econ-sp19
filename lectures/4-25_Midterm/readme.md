@@ -18,3 +18,4 @@ Review the following:
 - What is omitted variable bias? How does IV help? 
 - How would you run a Monte Carlo experiment to demonstrate attenuation bias from measurement error?
 - How would you run a Monte Carlo experiment to demonstrate how IV works?
+- Familiarize yourself with Monte Carlo integration
