@@ -1,5 +1,5 @@
-HW 3: Panel Data Models, plus
-==============================
+HW 3: Panel Data Models
+=======================
 
 Complete the exercises found in the following notebooks:
 
