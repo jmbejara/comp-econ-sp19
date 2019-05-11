@@ -21,7 +21,10 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
 
  * Midterm Exam: Thursday, April 25. The exam will take place during class, 3:30-4:50 PM
 in SHFE 103.
- * Final Exam: Thursday, June 13th, 4-6pm (See the registrar’s site for more details.)
+ * Final Exam: 
+    * Normally scheduled final: Thursday, June 13th, 4-6pm, SHFE 103 (See the registrar’s site for more details.)
+    * Early final: June 5th, 12 - 2 PM, SHFE 203
+    * Very early final: May 30th, 6:30 - 8:30 PM, SHFE 141
 
 **Books Used**
 
