@@ -1,0 +1,829 @@
+GISJOIN,YEAR,REGIONA,DIVISIONA,STATE,STATEA,COUNTY,COUNTYA,COUSUBA,PLACEA,AIANHHA,ANRCA,CBSAA,CSAA,METDIVA,NECTAA,CNECTAA,NECTADIVA,UAA,CDCURRA,SDELMA,SDSECA,SDUNIA,PUMA5A,NAME_E,SX1E001,NAME_M,SX1M001
+"G0100030","2013",,,"Alabama","01","Baldwin County","003",,,,,,,,,,,,,,,,,"Baldwin County, Alabama",25389,"Baldwin County, Alabama",1626
+"G0100150","2013",,,"Alabama","01","Calhoun County","015",,,,,,,,,,,,,,,,,"Calhoun County, Alabama",19800,"Calhoun County, Alabama",1432
+"G0100430","2013",,,"Alabama","01","Cullman County","043",,,,,,,,,,,,,,,,,"Cullman County, Alabama",21509,"Cullman County, Alabama",1389
+"G0100490","2013",,,"Alabama","01","DeKalb County","049",,,,,,,,,,,,,,,,,"DeKalb County, Alabama",16941,"DeKalb County, Alabama",1393
+"G0100510","2013",,,"Alabama","01","Elmore County","051",,,,,,,,,,,,,,,,,"Elmore County, Alabama",22780,"Elmore County, Alabama",2194
+"G0100550","2013",,,"Alabama","01","Etowah County","055",,,,,,,,,,,,,,,,,"Etowah County, Alabama",20018,"Etowah County, Alabama",1013
+"G0100690","2013",,,"Alabama","01","Houston County","069",,,,,,,,,,,,,,,,,"Houston County, Alabama",22242,"Houston County, Alabama",825
+"G0100730","2013",,,"Alabama","01","Jefferson County","073",,,,,,,,,,,,,,,,,"Jefferson County, Alabama",27220,"Jefferson County, Alabama",862
+"G0100770","2013",,,"Alabama","01","Lauderdale County","077",,,,,,,,,,,,,,,,,"Lauderdale County, Alabama",23993,"Lauderdale County, Alabama",1881
+"G0100810","2013",,,"Alabama","01","Lee County","081",,,,,,,,,,,,,,,,,"Lee County, Alabama",25024,"Lee County, Alabama",2092
+"G0100830","2013",,,"Alabama","01","Limestone County","083",,,,,,,,,,,,,,,,,"Limestone County, Alabama",25202,"Limestone County, Alabama",2639
+"G0100890","2013",,,"Alabama","01","Madison County","089",,,,,,,,,,,,,,,,,"Madison County, Alabama",31477,"Madison County, Alabama",1337
+"G0100950","2013",,,"Alabama","01","Marshall County","095",,,,,,,,,,,,,,,,,"Marshall County, Alabama",20101,"Marshall County, Alabama",1588
+"G0100970","2013",,,"Alabama","01","Mobile County","097",,,,,,,,,,,,,,,,,"Mobile County, Alabama",21283,"Mobile County, Alabama",725
+"G0101010","2013",,,"Alabama","01","Montgomery County","101",,,,,,,,,,,,,,,,,"Montgomery County, Alabama",25248,"Montgomery County, Alabama",1296
+"G0101030","2013",,,"Alabama","01","Morgan County","103",,,,,,,,,,,,,,,,,"Morgan County, Alabama",23228,"Morgan County, Alabama",1944
+"G0101150","2013",,,"Alabama","01","St. Clair County","115",,,,,,,,,,,,,,,,,"St. Clair County, Alabama",25439,"St. Clair County, Alabama",2045
+"G0101170","2013",,,"Alabama","01","Shelby County","117",,,,,,,,,,,,,,,,,"Shelby County, Alabama",32229,"Shelby County, Alabama",1313
+"G0101210","2013",,,"Alabama","01","Talladega County","121",,,,,,,,,,,,,,,,,"Talladega County, Alabama",21033,"Talladega County, Alabama",2016
+"G0101250","2013",,,"Alabama","01","Tuscaloosa County","125",,,,,,,,,,,,,,,,,"Tuscaloosa County, Alabama",22004,"Tuscaloosa County, Alabama",1255
+"G0101270","2013",,,"Alabama","01","Walker County","127",,,,,,,,,,,,,,,,,"Walker County, Alabama",19182,"Walker County, Alabama",1477
+"G0200200","2013",,,"Alaska","02","Anchorage Municipality","020",,,,,,,,,,,,,,,,,"Anchorage Municipality, Alaska",36344,"Anchorage Municipality, Alaska",1337
+"G0200900","2013",,,"Alaska","02","Fairbanks North Star Borough","090",,,,,,,,,,,,,,,,,"Fairbanks North Star Borough, Alaska",30872,"Fairbanks North Star Borough, Alaska",2441
+"G0201700","2013",,,"Alaska","02","Matanuska-Susitna Borough","170",,,,,,,,,,,,,,,,,"Matanuska-Susitna Borough, Alaska",28714,"Matanuska-Susitna Borough, Alaska",1223
+"G0400010","2013",,,"Arizona","04","Apache County","001",,,,,,,,,,,,,,,,,"Apache County, Arizona",11929,"Apache County, Arizona",912
+"G0400030","2013",,,"Arizona","04","Cochise County","003",,,,,,,,,,,,,,,,,"Cochise County, Arizona",24093,"Cochise County, Arizona",1386
+"G0400050","2013",,,"Arizona","04","Coconino County","005",,,,,,,,,,,,,,,,,"Coconino County, Arizona",25178,"Coconino County, Arizona",3105
+"G0400130","2013",,,"Arizona","04","Maricopa County","013",,,,,,,,,,,,,,,,,"Maricopa County, Arizona",26888,"Maricopa County, Arizona",333
+"G0400150","2013",,,"Arizona","04","Mohave County","015",,,,,,,,,,,,,,,,,"Mohave County, Arizona",20940,"Mohave County, Arizona",1429
+"G0400170","2013",,,"Arizona","04","Navajo County","017",,,,,,,,,,,,,,,,,"Navajo County, Arizona",16641,"Navajo County, Arizona",1024
+"G0400190","2013",,,"Arizona","04","Pima County","019",,,,,,,,,,,,,,,,,"Pima County, Arizona",25014,"Pima County, Arizona",777
+"G0400210","2013",,,"Arizona","04","Pinal County","021",,,,,,,,,,,,,,,,,"Pinal County, Arizona",21409,"Pinal County, Arizona",884
+"G0400250","2013",,,"Arizona","04","Yavapai County","025",,,,,,,,,,,,,,,,,"Yavapai County, Arizona",23259,"Yavapai County, Arizona",1334
+"G0400270","2013",,,"Arizona","04","Yuma County","027",,,,,,,,,,,,,,,,,"Yuma County, Arizona",19531,"Yuma County, Arizona",1010
+"G0500070","2013",,,"Arkansas","05","Benton County","007",,,,,,,,,,,,,,,,,"Benton County, Arkansas",27079,"Benton County, Arkansas",1264
+"G0500310","2013",,,"Arkansas","05","Craighead County","031",,,,,,,,,,,,,,,,,"Craighead County, Arkansas",21952,"Craighead County, Arkansas",2985
+"G0500450","2013",,,"Arkansas","05","Faulkner County","045",,,,,,,,,,,,,,,,,"Faulkner County, Arkansas",24058,"Faulkner County, Arkansas",2525
+"G0500510","2013",,,"Arkansas","05","Garland County","051",,,,,,,,,,,,,,,,,"Garland County, Arkansas",23499,"Garland County, Arkansas",1677
+"G0500690","2013",,,"Arkansas","05","Jefferson County","069",,,,,,,,,,,,,,,,,"Jefferson County, Arkansas",18877,"Jefferson County, Arkansas",1605
+"G0500850","2013",,,"Arkansas","05","Lonoke County","085",,,,,,,,,,,,,,,,,"Lonoke County, Arkansas",23884,"Lonoke County, Arkansas",1531
+"G0501190","2013",,,"Arkansas","05","Pulaski County","119",,,,,,,,,,,,,,,,,"Pulaski County, Arkansas",26681,"Pulaski County, Arkansas",1123
+"G0501250","2013",,,"Arkansas","05","Saline County","125",,,,,,,,,,,,,,,,,"Saline County, Arkansas",24242,"Saline County, Arkansas",1301
+"G0501310","2013",,,"Arkansas","05","Sebastian County","131",,,,,,,,,,,,,,,,,"Sebastian County, Arkansas",23225,"Sebastian County, Arkansas",2466
+"G0501430","2013",,,"Arkansas","05","Washington County","143",,,,,,,,,,,,,,,,,"Washington County, Arkansas",22870,"Washington County, Arkansas",1198
+"G0501450","2013",,,"Arkansas","05","White County","145",,,,,,,,,,,,,,,,,"White County, Arkansas",21588,"White County, Arkansas",1988
+"G0600010","2013",,,"California","06","Alameda County","001",,,,,,,,,,,,,,,,,"Alameda County, California",36268,"Alameda County, California",533
+"G0600070","2013",,,"California","06","Butte County","007",,,,,,,,,,,,,,,,,"Butte County, California",23744,"Butte County, California",1064
+"G0600130","2013",,,"California","06","Contra Costa County","013",,,,,,,,,,,,,,,,,"Contra Costa County, California",38344,"Contra Costa County, California",964
+"G0600170","2013",,,"California","06","El Dorado County","017",,,,,,,,,,,,,,,,,"El Dorado County, California",33107,"El Dorado County, California",2387
+"G0600190","2013",,,"California","06","Fresno County","019",,,,,,,,,,,,,,,,,"Fresno County, California",19682,"Fresno County, California",526
+"G0600230","2013",,,"California","06","Humboldt County","023",,,,,,,,,,,,,,,,,"Humboldt County, California",22432,"Humboldt County, California",1164
+"G0600250","2013",,,"California","06","Imperial County","025",,,,,,,,,,,,,,,,,"Imperial County, California",16107,"Imperial County, California",1028
+"G0600290","2013",,,"California","06","Kern County","029",,,,,,,,,,,,,,,,,"Kern County, California",19590,"Kern County, California",568
+"G0600310","2013",,,"California","06","Kings County","031",,,,,,,,,,,,,,,,,"Kings County, California",17948,"Kings County, California",1132
+"G0600330","2013",,,"California","06","Lake County","033",,,,,,,,,,,,,,,,,"Lake County, California",20711,"Lake County, California",1803
+"G0600370","2013",,,"California","06","Los Angeles County","037",,,,,,,,,,,,,,,,,"Los Angeles County, California",27488,"Los Angeles County, California",256
+"G0600390","2013",,,"California","06","Madera County","039",,,,,,,,,,,,,,,,,"Madera County, California",17046,"Madera County, California",1232
+"G0600410","2013",,,"California","06","Marin County","041",,,,,,,,,,,,,,,,,"Marin County, California",60689,"Marin County, California",4343
+"G0600450","2013",,,"California","06","Mendocino County","045",,,,,,,,,,,,,,,,,"Mendocino County, California",24855,"Mendocino County, California",4190
+"G0600470","2013",,,"California","06","Merced County","047",,,,,,,,,,,,,,,,,"Merced County, California",17223,"Merced County, California",800
+"G0600530","2013",,,"California","06","Monterey County","053",,,,,,,,,,,,,,,,,"Monterey County, California",24145,"Monterey County, California",923
+"G0600550","2013",,,"California","06","Napa County","055",,,,,,,,,,,,,,,,,"Napa County, California",33881,"Napa County, California",1798
+"G0600570","2013",,,"California","06","Nevada County","057",,,,,,,,,,,,,,,,,"Nevada County, California",31224,"Nevada County, California",2535
+"G0600590","2013",,,"California","06","Orange County","059",,,,,,,,,,,,,,,,,"Orange County, California",33839,"Orange County, California",627
+"G0600610","2013",,,"California","06","Placer County","061",,,,,,,,,,,,,,,,,"Placer County, California",35256,"Placer County, California",1335
+"G0600650","2013",,,"California","06","Riverside County","065",,,,,,,,,,,,,,,,,"Riverside County, California",23068,"Riverside County, California",330
+"G0600670","2013",,,"California","06","Sacramento County","067",,,,,,,,,,,,,,,,,"Sacramento County, California",26181,"Sacramento County, California",629
+"G0600710","2013",,,"California","06","San Bernardino County","071",,,,,,,,,,,,,,,,,"San Bernardino County, California",20928,"San Bernardino County, California",327
+"G0600730","2013",,,"California","06","San Diego County","073",,,,,,,,,,,,,,,,,"San Diego County, California",30844,"San Diego County, California",519
+"G0600750","2013",,,"California","06","San Francisco County","075",,,,,,,,,,,,,,,,,"San Francisco County, California",51686,"San Francisco County, California",1746
+"G0600770","2013",,,"California","06","San Joaquin County","077",,,,,,,,,,,,,,,,,"San Joaquin County, California",21397,"San Joaquin County, California",607
+"G0600790","2013",,,"California","06","San Luis Obispo County","079",,,,,,,,,,,,,,,,,"San Luis Obispo County, California",29819,"San Luis Obispo County, California",1127
+"G0600810","2013",,,"California","06","San Mateo County","081",,,,,,,,,,,,,,,,,"San Mateo County, California",46350,"San Mateo County, California",1184
+"G0600830","2013",,,"California","06","Santa Barbara County","083",,,,,,,,,,,,,,,,,"Santa Barbara County, California",31357,"Santa Barbara County, California",1517
+"G0600850","2013",,,"California","06","Santa Clara County","085",,,,,,,,,,,,,,,,,"Santa Clara County, California",42715,"Santa Clara County, California",647
+"G0600870","2013",,,"California","06","Santa Cruz County","087",,,,,,,,,,,,,,,,,"Santa Cruz County, California",31521,"Santa Cruz County, California",1184
+"G0600890","2013",,,"California","06","Shasta County","089",,,,,,,,,,,,,,,,,"Shasta County, California",22558,"Shasta County, California",1138
+"G0600950","2013",,,"California","06","Solano County","095",,,,,,,,,,,,,,,,,"Solano County, California",28388,"Solano County, California",931
+"G0600970","2013",,,"California","06","Sonoma County","097",,,,,,,,,,,,,,,,,"Sonoma County, California",33357,"Sonoma County, California",1217
+"G0600990","2013",,,"California","06","Stanislaus County","099",,,,,,,,,,,,,,,,,"Stanislaus County, California",22556,"Stanislaus County, California",1573
+"G0601010","2013",,,"California","06","Sutter County","101",,,,,,,,,,,,,,,,,"Sutter County, California",23446,"Sutter County, California",1883
+"G0601070","2013",,,"California","06","Tulare County","107",,,,,,,,,,,,,,,,,"Tulare County, California",16595,"Tulare County, California",649
+"G0601110","2013",,,"California","06","Ventura County","111",,,,,,,,,,,,,,,,,"Ventura County, California",33481,"Ventura County, California",846
+"G0601130","2013",,,"California","06","Yolo County","113",,,,,,,,,,,,,,,,,"Yolo County, California",26423,"Yolo County, California",1255
+"G0601150","2013",,,"California","06","Yuba County","115",,,,,,,,,,,,,,,,,"Yuba County, California",17967,"Yuba County, California",1385
+"G0800010","2013",,,"Colorado","08","Adams County","001",,,,,,,,,,,,,,,,,"Adams County, Colorado",24425,"Adams County, Colorado",644
+"G0800050","2013",,,"Colorado","08","Arapahoe County","005",,,,,,,,,,,,,,,,,"Arapahoe County, Colorado",31644,"Arapahoe County, Colorado",822
+"G0800130","2013",,,"Colorado","08","Boulder County","013",,,,,,,,,,,,,,,,,"Boulder County, Colorado",38538,"Boulder County, Colorado",1336
+"G0800310","2013",,,"Colorado","08","Denver County","031",,,,,,,,,,,,,,,,,"Denver County, Colorado",33995,"Denver County, Colorado",1157
+"G0800350","2013",,,"Colorado","08","Douglas County","035",,,,,,,,,,,,,,,,,"Douglas County, Colorado",44419,"Douglas County, Colorado",1608
+"G0800410","2013",,,"Colorado","08","El Paso County","041",,,,,,,,,,,,,,,,,"El Paso County, Colorado",29000,"El Paso County, Colorado",754
+"G0800590","2013",,,"Colorado","08","Jefferson County","059",,,,,,,,,,,,,,,,,"Jefferson County, Colorado",36570,"Jefferson County, Colorado",974
+"G0800690","2013",,,"Colorado","08","Larimer County","069",,,,,,,,,,,,,,,,,"Larimer County, Colorado",31546,"Larimer County, Colorado",1493
+"G0800770","2013",,,"Colorado","08","Mesa County","077",,,,,,,,,,,,,,,,,"Mesa County, Colorado",25981,"Mesa County, Colorado",1874
+"G0801010","2013",,,"Colorado","08","Pueblo County","101",,,,,,,,,,,,,,,,,"Pueblo County, Colorado",20987,"Pueblo County, Colorado",863
+"G0801230","2013",,,"Colorado","08","Weld County","123",,,,,,,,,,,,,,,,,"Weld County, Colorado",25855,"Weld County, Colorado",1167
+"G0900010","2013",,,"Connecticut","09","Fairfield County","001",,,,,,,,,,,,,,,,,"Fairfield County, Connecticut",49129,"Fairfield County, Connecticut",1450
+"G0900030","2013",,,"Connecticut","09","Hartford County","003",,,,,,,,,,,,,,,,,"Hartford County, Connecticut",34760,"Hartford County, Connecticut",830
+"G0900050","2013",,,"Connecticut","09","Litchfield County","005",,,,,,,,,,,,,,,,,"Litchfield County, Connecticut",36561,"Litchfield County, Connecticut",1952
+"G0900070","2013",,,"Connecticut","09","Middlesex County","007",,,,,,,,,,,,,,,,,"Middlesex County, Connecticut",40079,"Middlesex County, Connecticut",2176
+"G0900090","2013",,,"Connecticut","09","New Haven County","009",,,,,,,,,,,,,,,,,"New Haven County, Connecticut",31896,"New Haven County, Connecticut",857
+"G0900110","2013",,,"Connecticut","09","New London County","011",,,,,,,,,,,,,,,,,"New London County, Connecticut",32991,"New London County, Connecticut",1160
+"G0900130","2013",,,"Connecticut","09","Tolland County","013",,,,,,,,,,,,,,,,,"Tolland County, Connecticut",33518,"Tolland County, Connecticut",1754
+"G0900150","2013",,,"Connecticut","09","Windham County","015",,,,,,,,,,,,,,,,,"Windham County, Connecticut",26969,"Windham County, Connecticut",1609
+"G1000010","2013",,,"Delaware","10","Kent County","001",,,,,,,,,,,,,,,,,"Kent County, Delaware",25192,"Kent County, Delaware",1223
+"G1000030","2013",,,"Delaware","10","New Castle County","003",,,,,,,,,,,,,,,,,"New Castle County, Delaware",32498,"New Castle County, Delaware",909
+"G1000050","2013",,,"Delaware","10","Sussex County","005",,,,,,,,,,,,,,,,,"Sussex County, Delaware",24986,"Sussex County, Delaware",917
+"G1100010","2013",,,"District of Columbia","11","District of Columbia","001",,,,,,,,,,,,,,,,,"District of Columbia, District of Columbia",45477,"District of Columbia, District of Columbia",1236
+"G1200010","2013",,,"Florida","12","Alachua County","001",,,,,,,,,,,,,,,,,"Alachua County, Florida",23186,"Alachua County, Florida",1357
+"G1200050","2013",,,"Florida","12","Bay County","005",,,,,,,,,,,,,,,,,"Bay County, Florida",23252,"Bay County, Florida",1222
+"G1200090","2013",,,"Florida","12","Brevard County","009",,,,,,,,,,,,,,,,,"Brevard County, Florida",25615,"Brevard County, Florida",766
+"G1200110","2013",,,"Florida","12","Broward County","011",,,,,,,,,,,,,,,,,"Broward County, Florida",27804,"Broward County, Florida",658
+"G1200150","2013",,,"Florida","12","Charlotte County","015",,,,,,,,,,,,,,,,,"Charlotte County, Florida",25459,"Charlotte County, Florida",1389
+"G1200170","2013",,,"Florida","12","Citrus County","017",,,,,,,,,,,,,,,,,"Citrus County, Florida",22817,"Citrus County, Florida",1286
+"G1200190","2013",,,"Florida","12","Clay County","019",,,,,,,,,,,,,,,,,"Clay County, Florida",27333,"Clay County, Florida",2424
+"G1200210","2013",,,"Florida","12","Collier County","021",,,,,,,,,,,,,,,,,"Collier County, Florida",36746,"Collier County, Florida",2650
+"G1200230","2013",,,"Florida","12","Columbia County","023",,,,,,,,,,,,,,,,,"Columbia County, Florida",21186,"Columbia County, Florida",1488
+"G1200310","2013",,,"Florida","12","Duval County","031",,,,,,,,,,,,,,,,,"Duval County, Florida",26330,"Duval County, Florida",776
+"G1200330","2013",,,"Florida","12","Escambia County","033",,,,,,,,,,,,,,,,,"Escambia County, Florida",23192,"Escambia County, Florida",1135
+"G1200350","2013",,,"Florida","12","Flagler County","035",,,,,,,,,,,,,,,,,"Flagler County, Florida",23038,"Flagler County, Florida",2002
+"G1200530","2013",,,"Florida","12","Hernando County","053",,,,,,,,,,,,,,,,,"Hernando County, Florida",20827,"Hernando County, Florida",1029
+"G1200550","2013",,,"Florida","12","Highlands County","055",,,,,,,,,,,,,,,,,"Highlands County, Florida",21482,"Highlands County, Florida",2388
+"G1200570","2013",,,"Florida","12","Hillsborough County","057",,,,,,,,,,,,,,,,,"Hillsborough County, Florida",27242,"Hillsborough County, Florida",662
+"G1200610","2013",,,"Florida","12","Indian River County","061",,,,,,,,,,,,,,,,,"Indian River County, Florida",28355,"Indian River County, Florida",2005
+"G1200690","2013",,,"Florida","12","Lake County","069",,,,,,,,,,,,,,,,,"Lake County, Florida",22972,"Lake County, Florida",996
+"G1200710","2013",,,"Florida","12","Lee County","071",,,,,,,,,,,,,,,,,"Lee County, Florida",26598,"Lee County, Florida",946
+"G1200730","2013",,,"Florida","12","Leon County","073",,,,,,,,,,,,,,,,,"Leon County, Florida",26020,"Leon County, Florida",1014
+"G1200810","2013",,,"Florida","12","Manatee County","081",,,,,,,,,,,,,,,,,"Manatee County, Florida",28194,"Manatee County, Florida",1562
+"G1200830","2013",,,"Florida","12","Marion County","083",,,,,,,,,,,,,,,,,"Marion County, Florida",21430,"Marion County, Florida",1010
+"G1200850","2013",,,"Florida","12","Martin County","085",,,,,,,,,,,,,,,,,"Martin County, Florida",33285,"Martin County, Florida",2233
+"G1200860","2013",,,"Florida","12","Miami-Dade County","086",,,,,,,,,,,,,,,,,"Miami-Dade County, Florida",22832,"Miami-Dade County, Florida",420
+"G1200870","2013",,,"Florida","12","Monroe County","087",,,,,,,,,,,,,,,,,"Monroe County, Florida",31137,"Monroe County, Florida",3828
+"G1200890","2013",,,"Florida","12","Nassau County","089",,,,,,,,,,,,,,,,,"Nassau County, Florida",27201,"Nassau County, Florida",2051
+"G1200910","2013",,,"Florida","12","Okaloosa County","091",,,,,,,,,,,,,,,,,"Okaloosa County, Florida",28183,"Okaloosa County, Florida",1460
+"G1200950","2013",,,"Florida","12","Orange County","095",,,,,,,,,,,,,,,,,"Orange County, Florida",23925,"Orange County, Florida",670
+"G1200970","2013",,,"Florida","12","Osceola County","097",,,,,,,,,,,,,,,,,"Osceola County, Florida",18075,"Osceola County, Florida",1059
+"G1200990","2013",,,"Florida","12","Palm Beach County","099",,,,,,,,,,,,,,,,,"Palm Beach County, Florida",32690,"Palm Beach County, Florida",750
+"G1201010","2013",,,"Florida","12","Pasco County","101",,,,,,,,,,,,,,,,,"Pasco County, Florida",23901,"Pasco County, Florida",674
+"G1201030","2013",,,"Florida","12","Pinellas County","103",,,,,,,,,,,,,,,,,"Pinellas County, Florida",28855,"Pinellas County, Florida",822
+"G1201050","2013",,,"Florida","12","Polk County","105",,,,,,,,,,,,,,,,,"Polk County, Florida",20507,"Polk County, Florida",614
+"G1201070","2013",,,"Florida","12","Putnam County","107",,,,,,,,,,,,,,,,,"Putnam County, Florida",17469,"Putnam County, Florida",1822
+"G1201090","2013",,,"Florida","12","St. Johns County","109",,,,,,,,,,,,,,,,,"St. Johns County, Florida",36369,"St. Johns County, Florida",2230
+"G1201110","2013",,,"Florida","12","St. Lucie County","111",,,,,,,,,,,,,,,,,"St. Lucie County, Florida",23743,"St. Lucie County, Florida",1883
+"G1201130","2013",,,"Florida","12","Santa Rosa County","113",,,,,,,,,,,,,,,,,"Santa Rosa County, Florida",24656,"Santa Rosa County, Florida",1360
+"G1201150","2013",,,"Florida","12","Sarasota County","115",,,,,,,,,,,,,,,,,"Sarasota County, Florida",31354,"Sarasota County, Florida",1124
+"G1201170","2013",,,"Florida","12","Seminole County","117",,,,,,,,,,,,,,,,,"Seminole County, Florida",26952,"Seminole County, Florida",988
+"G1201190","2013",,,"Florida","12","Sumter County","119",,,,,,,,,,,,,,,,,"Sumter County, Florida",31539,"Sumter County, Florida",3196
+"G1201270","2013",,,"Florida","12","Volusia County","127",,,,,,,,,,,,,,,,,"Volusia County, Florida",23779,"Volusia County, Florida",1012
+"G1300130","2013",,,"Georgia","13","Barrow County","013",,,,,,,,,,,,,,,,,"Barrow County, Georgia",22103,"Barrow County, Georgia",1687
+"G1300150","2013",,,"Georgia","13","Bartow County","015",,,,,,,,,,,,,,,,,"Bartow County, Georgia",21212,"Bartow County, Georgia",1659
+"G1300210","2013",,,"Georgia","13","Bibb County","021",,,,,,,,,,,,,,,,,"Bibb County, Georgia",20225,"Bibb County, Georgia",1529
+"G1300310","2013",,,"Georgia","13","Bulloch County","031",,,,,,,,,,,,,,,,,"Bulloch County, Georgia",18441,"Bulloch County, Georgia",2559
+"G1300450","2013",,,"Georgia","13","Carroll County","045",,,,,,,,,,,,,,,,,"Carroll County, Georgia",21342,"Carroll County, Georgia",2599
+"G1300470","2013",,,"Georgia","13","Catoosa County","047",,,,,,,,,,,,,,,,,"Catoosa County, Georgia",22321,"Catoosa County, Georgia",1737
+"G1300510","2013",,,"Georgia","13","Chatham County","051",,,,,,,,,,,,,,,,,"Chatham County, Georgia",25254,"Chatham County, Georgia",1243
+"G1300570","2013",,,"Georgia","13","Cherokee County","057",,,,,,,,,,,,,,,,,"Cherokee County, Georgia",28930,"Cherokee County, Georgia",1707
+"G1300590","2013",,,"Georgia","13","Clarke County","059",,,,,,,,,,,,,,,,,"Clarke County, Georgia",18647,"Clarke County, Georgia",1431
+"G1300630","2013",,,"Georgia","13","Clayton County","063",,,,,,,,,,,,,,,,,"Clayton County, Georgia",17744,"Clayton County, Georgia",810
+"G1300670","2013",,,"Georgia","13","Cobb County","067",,,,,,,,,,,,,,,,,"Cobb County, Georgia",32567,"Cobb County, Georgia",829
+"G1300730","2013",,,"Georgia","13","Columbia County","073",,,,,,,,,,,,,,,,,"Columbia County, Georgia",30769,"Columbia County, Georgia",2374
+"G1300770","2013",,,"Georgia","13","Coweta County","077",,,,,,,,,,,,,,,,,"Coweta County, Georgia",28221,"Coweta County, Georgia",2061
+"G1300890","2013",,,"Georgia","13","DeKalb County","089",,,,,,,,,,,,,,,,,"DeKalb County, Georgia",28746,"DeKalb County, Georgia",847
+"G1300950","2013",,,"Georgia","13","Dougherty County","095",,,,,,,,,,,,,,,,,"Dougherty County, Georgia",17854,"Dougherty County, Georgia",1615
+"G1300970","2013",,,"Georgia","13","Douglas County","097",,,,,,,,,,,,,,,,,"Douglas County, Georgia",22513,"Douglas County, Georgia",1413
+"G1301130","2013",,,"Georgia","13","Fayette County","113",,,,,,,,,,,,,,,,,"Fayette County, Georgia",34588,"Fayette County, Georgia",2047
+"G1301150","2013",,,"Georgia","13","Floyd County","115",,,,,,,,,,,,,,,,,"Floyd County, Georgia",18648,"Floyd County, Georgia",1335
+"G1301170","2013",,,"Georgia","13","Forsyth County","117",,,,,,,,,,,,,,,,,"Forsyth County, Georgia",36751,"Forsyth County, Georgia",1724
+"G1301210","2013",,,"Georgia","13","Fulton County","121",,,,,,,,,,,,,,,,,"Fulton County, Georgia",36872,"Fulton County, Georgia",966
+"G1301270","2013",,,"Georgia","13","Glynn County","127",,,,,,,,,,,,,,,,,"Glynn County, Georgia",24401,"Glynn County, Georgia",2194
+"G1301350","2013",,,"Georgia","13","Gwinnett County","135",,,,,,,,,,,,,,,,,"Gwinnett County, Georgia",24631,"Gwinnett County, Georgia",604
+"G1301390","2013",,,"Georgia","13","Hall County","139",,,,,,,,,,,,,,,,,"Hall County, Georgia",22373,"Hall County, Georgia",1264
+"G1301510","2013",,,"Georgia","13","Henry County","151",,,,,,,,,,,,,,,,,"Henry County, Georgia",25101,"Henry County, Georgia",1704
+"G1301530","2013",,,"Georgia","13","Houston County","153",,,,,,,,,,,,,,,,,"Houston County, Georgia",23411,"Houston County, Georgia",1766
+"G1301790","2013",,,"Georgia","13","Liberty County","179",,,,,,,,,,,,,,,,,"Liberty County, Georgia",20187,"Liberty County, Georgia",2585
+"G1301850","2013",,,"Georgia","13","Lowndes County","185",,,,,,,,,,,,,,,,,"Lowndes County, Georgia",17775,"Lowndes County, Georgia",1118
+"G1302150","2013",,,"Georgia","13","Muscogee County","215",,,,,,,,,,,,,,,,,"Muscogee County, Georgia",22131,"Muscogee County, Georgia",1450
+"G1302170","2013",,,"Georgia","13","Newton County","217",,,,,,,,,,,,,,,,,"Newton County, Georgia",22702,"Newton County, Georgia",1724
+"G1302230","2013",,,"Georgia","13","Paulding County","223",,,,,,,,,,,,,,,,,"Paulding County, Georgia",23562,"Paulding County, Georgia",1734
+"G1302450","2013",,,"Georgia","13","Richmond County","245",,,,,,,,,,,,,,,,,"Richmond County, Georgia",21466,"Richmond County, Georgia",1916
+"G1302470","2013",,,"Georgia","13","Rockdale County","247",,,,,,,,,,,,,,,,,"Rockdale County, Georgia",21196,"Rockdale County, Georgia",1397
+"G1302850","2013",,,"Georgia","13","Troup County","285",,,,,,,,,,,,,,,,,"Troup County, Georgia",22836,"Troup County, Georgia",2648
+"G1302950","2013",,,"Georgia","13","Walker County","295",,,,,,,,,,,,,,,,,"Walker County, Georgia",19748,"Walker County, Georgia",1290
+"G1302970","2013",,,"Georgia","13","Walton County","297",,,,,,,,,,,,,,,,,"Walton County, Georgia",21915,"Walton County, Georgia",1451
+"G1303130","2013",,,"Georgia","13","Whitfield County","313",,,,,,,,,,,,,,,,,"Whitfield County, Georgia",18680,"Whitfield County, Georgia",1516
+"G1500010","2013",,,"Hawaii","15","Hawaii County","001",,,,,,,,,,,,,,,,,"Hawaii County, Hawaii",23353,"Hawaii County, Hawaii",1450
+"G1500030","2013",,,"Hawaii","15","Honolulu County","003",,,,,,,,,,,,,,,,,"Honolulu County, Hawaii",30895,"Honolulu County, Hawaii",680
+"G1500070","2013",,,"Hawaii","15","Kauai County","007",,,,,,,,,,,,,,,,,"Kauai County, Hawaii",27264,"Kauai County, Hawaii",2386
+"G1500090","2013",,,"Hawaii","15","Maui County","009",,,,,,,,,,,,,,,,,"Maui County, Hawaii",29895,"Maui County, Hawaii",1983
+"G1600010","2013",,,"Idaho","16","Ada County","001",,,,,,,,,,,,,,,,,"Ada County, Idaho",27617,"Ada County, Idaho",1199
+"G1600050","2013",,,"Idaho","16","Bannock County","005",,,,,,,,,,,,,,,,,"Bannock County, Idaho",21777,"Bannock County, Idaho",1403
+"G1600190","2013",,,"Idaho","16","Bonneville County","019",,,,,,,,,,,,,,,,,"Bonneville County, Idaho",21062,"Bonneville County, Idaho",1432
+"G1600270","2013",,,"Idaho","16","Canyon County","027",,,,,,,,,,,,,,,,,"Canyon County, Idaho",17450,"Canyon County, Idaho",821
+"G1600550","2013",,,"Idaho","16","Kootenai County","055",,,,,,,,,,,,,,,,,"Kootenai County, Idaho",26150,"Kootenai County, Idaho",1717
+"G1600830","2013",,,"Idaho","16","Twin Falls County","083",,,,,,,,,,,,,,,,,"Twin Falls County, Idaho",20196,"Twin Falls County, Idaho",1501
+"G1700010","2013",,,"Illinois","17","Adams County","001",,,,,,,,,,,,,,,,,"Adams County, Illinois",22323,"Adams County, Illinois",1438
+"G1700190","2013",,,"Illinois","17","Champaign County","019",,,,,,,,,,,,,,,,,"Champaign County, Illinois",25386,"Champaign County, Illinois",1144
+"G1700310","2013",,,"Illinois","17","Cook County","031",,,,,,,,,,,,,,,,,"Cook County, Illinois",30277,"Cook County, Illinois",417
+"G1700370","2013",,,"Illinois","17","DeKalb County","037",,,,,,,,,,,,,,,,,"DeKalb County, Illinois",23277,"DeKalb County, Illinois",970
+"G1700430","2013",,,"Illinois","17","DuPage County","043",,,,,,,,,,,,,,,,,"DuPage County, Illinois",38859,"DuPage County, Illinois",972
+"G1700890","2013",,,"Illinois","17","Kane County","089",,,,,,,,,,,,,,,,,"Kane County, Illinois",31206,"Kane County, Illinois",1350
+"G1700910","2013",,,"Illinois","17","Kankakee County","091",,,,,,,,,,,,,,,,,"Kankakee County, Illinois",23838,"Kankakee County, Illinois",1933
+"G1700930","2013",,,"Illinois","17","Kendall County","093",,,,,,,,,,,,,,,,,"Kendall County, Illinois",28438,"Kendall County, Illinois",2112
+"G1700970","2013",,,"Illinois","17","Lake County","097",,,,,,,,,,,,,,,,,"Lake County, Illinois",38172,"Lake County, Illinois",1037
+"G1700990","2013",,,"Illinois","17","LaSalle County","099",,,,,,,,,,,,,,,,,"LaSalle County, Illinois",25568,"LaSalle County, Illinois",1471
+"G1701110","2013",,,"Illinois","17","McHenry County","111",,,,,,,,,,,,,,,,,"McHenry County, Illinois",32376,"McHenry County, Illinois",1084
+"G1701130","2013",,,"Illinois","17","McLean County","113",,,,,,,,,,,,,,,,,"McLean County, Illinois",30651,"McLean County, Illinois",1444
+"G1701150","2013",,,"Illinois","17","Macon County","115",,,,,,,,,,,,,,,,,"Macon County, Illinois",26148,"Macon County, Illinois",1665
+"G1701190","2013",,,"Illinois","17","Madison County","119",,,,,,,,,,,,,,,,,"Madison County, Illinois",28592,"Madison County, Illinois",1820
+"G1701430","2013",,,"Illinois","17","Peoria County","143",,,,,,,,,,,,,,,,,"Peoria County, Illinois",26956,"Peoria County, Illinois",1337
+"G1701610","2013",,,"Illinois","17","Rock Island County","161",,,,,,,,,,,,,,,,,"Rock Island County, Illinois",26071,"Rock Island County, Illinois",1134
+"G1701630","2013",,,"Illinois","17","St. Clair County","163",,,,,,,,,,,,,,,,,"St. Clair County, Illinois",28383,"St. Clair County, Illinois",2481
+"G1701670","2013",,,"Illinois","17","Sangamon County","167",,,,,,,,,,,,,,,,,"Sangamon County, Illinois",30970,"Sangamon County, Illinois",1403
+"G1701790","2013",,,"Illinois","17","Tazewell County","179",,,,,,,,,,,,,,,,,"Tazewell County, Illinois",29000,"Tazewell County, Illinois",1456
+"G1701830","2013",,,"Illinois","17","Vermilion County","183",,,,,,,,,,,,,,,,,"Vermilion County, Illinois",22301,"Vermilion County, Illinois",959
+"G1701970","2013",,,"Illinois","17","Will County","197",,,,,,,,,,,,,,,,,"Will County, Illinois",30227,"Will County, Illinois",590
+"G1701990","2013",,,"Illinois","17","Williamson County","199",,,,,,,,,,,,,,,,,"Williamson County, Illinois",23759,"Williamson County, Illinois",1875
+"G1702010","2013",,,"Illinois","17","Winnebago County","201",,,,,,,,,,,,,,,,,"Winnebago County, Illinois",24697,"Winnebago County, Illinois",1138
+"G1800030","2013",,,"Indiana","18","Allen County","003",,,,,,,,,,,,,,,,,"Allen County, Indiana",24332,"Allen County, Indiana",1116
+"G1800050","2013",,,"Indiana","18","Bartholomew County","005",,,,,,,,,,,,,,,,,"Bartholomew County, Indiana",27383,"Bartholomew County, Indiana",1784
+"G1800190","2013",,,"Indiana","18","Clark County","019",,,,,,,,,,,,,,,,,"Clark County, Indiana",23301,"Clark County, Indiana",1262
+"G1800350","2013",,,"Indiana","18","Delaware County","035",,,,,,,,,,,,,,,,,"Delaware County, Indiana",20365,"Delaware County, Indiana",1149
+"G1800390","2013",,,"Indiana","18","Elkhart County","039",,,,,,,,,,,,,,,,,"Elkhart County, Indiana",20321,"Elkhart County, Indiana",811
+"G1800430","2013",,,"Indiana","18","Floyd County","043",,,,,,,,,,,,,,,,,"Floyd County, Indiana",27638,"Floyd County, Indiana",1817
+"G1800530","2013",,,"Indiana","18","Grant County","053",,,,,,,,,,,,,,,,,"Grant County, Indiana",19557,"Grant County, Indiana",1166
+"G1800570","2013",,,"Indiana","18","Hamilton County","057",,,,,,,,,,,,,,,,,"Hamilton County, Indiana",39724,"Hamilton County, Indiana",1974
+"G1800590","2013",,,"Indiana","18","Hancock County","059",,,,,,,,,,,,,,,,,"Hancock County, Indiana",28263,"Hancock County, Indiana",2804
+"G1800630","2013",,,"Indiana","18","Hendricks County","063",,,,,,,,,,,,,,,,,"Hendricks County, Indiana",30176,"Hendricks County, Indiana",1673
+"G1800670","2013",,,"Indiana","18","Howard County","067",,,,,,,,,,,,,,,,,"Howard County, Indiana",23841,"Howard County, Indiana",1221
+"G1800810","2013",,,"Indiana","18","Johnson County","081",,,,,,,,,,,,,,,,,"Johnson County, Indiana",27368,"Johnson County, Indiana",1582
+"G1800850","2013",,,"Indiana","18","Kosciusko County","085",,,,,,,,,,,,,,,,,"Kosciusko County, Indiana",25559,"Kosciusko County, Indiana",1977
+"G1800890","2013",,,"Indiana","18","Lake County","089",,,,,,,,,,,,,,,,,"Lake County, Indiana",24400,"Lake County, Indiana",941
+"G1800910","2013",,,"Indiana","18","LaPorte County","091",,,,,,,,,,,,,,,,,"LaPorte County, Indiana",22654,"LaPorte County, Indiana",1229
+"G1800950","2013",,,"Indiana","18","Madison County","095",,,,,,,,,,,,,,,,,"Madison County, Indiana",21422,"Madison County, Indiana",1387
+"G1800970","2013",,,"Indiana","18","Marion County","097",,,,,,,,,,,,,,,,,"Marion County, Indiana",24227,"Marion County, Indiana",1088
+"G1801050","2013",,,"Indiana","18","Monroe County","105",,,,,,,,,,,,,,,,,"Monroe County, Indiana",25016,"Monroe County, Indiana",1521
+"G1801090","2013",,,"Indiana","18","Morgan County","109",,,,,,,,,,,,,,,,,"Morgan County, Indiana",25936,"Morgan County, Indiana",2291
+"G1801270","2013",,,"Indiana","18","Porter County","127",,,,,,,,,,,,,,,,,"Porter County, Indiana",30630,"Porter County, Indiana",2301
+"G1801410","2013",,,"Indiana","18","St. Joseph County","141",,,,,,,,,,,,,,,,,"St. Joseph County, Indiana",22850,"St. Joseph County, Indiana",1222
+"G1801570","2013",,,"Indiana","18","Tippecanoe County","157",,,,,,,,,,,,,,,,,"Tippecanoe County, Indiana",23422,"Tippecanoe County, Indiana",2330
+"G1801630","2013",,,"Indiana","18","Vanderburgh County","163",,,,,,,,,,,,,,,,,"Vanderburgh County, Indiana",23402,"Vanderburgh County, Indiana",1590
+"G1801670","2013",,,"Indiana","18","Vigo County","167",,,,,,,,,,,,,,,,,"Vigo County, Indiana",21823,"Vigo County, Indiana",3642
+"G1801770","2013",,,"Indiana","18","Wayne County","177",,,,,,,,,,,,,,,,,"Wayne County, Indiana",19231,"Wayne County, Indiana",1332
+"G1900130","2013",,,"Iowa","19","Black Hawk County","013",,,,,,,,,,,,,,,,,"Black Hawk County, Iowa",24216,"Black Hawk County, Iowa",1207
+"G1900490","2013",,,"Iowa","19","Dallas County","049",,,,,,,,,,,,,,,,,"Dallas County, Iowa",35781,"Dallas County, Iowa",2097
+"G1900610","2013",,,"Iowa","19","Dubuque County","061",,,,,,,,,,,,,,,,,"Dubuque County, Iowa",26640,"Dubuque County, Iowa",1484
+"G1901030","2013",,,"Iowa","19","Johnson County","103",,,,,,,,,,,,,,,,,"Johnson County, Iowa",29704,"Johnson County, Iowa",1703
+"G1901130","2013",,,"Iowa","19","Linn County","113",,,,,,,,,,,,,,,,,"Linn County, Iowa",29086,"Linn County, Iowa",1108
+"G1901530","2013",,,"Iowa","19","Polk County","153",,,,,,,,,,,,,,,,,"Polk County, Iowa",31468,"Polk County, Iowa",1224
+"G1901550","2013",,,"Iowa","19","Pottawattamie County","155",,,,,,,,,,,,,,,,,"Pottawattamie County, Iowa",25864,"Pottawattamie County, Iowa",1634
+"G1901630","2013",,,"Iowa","19","Scott County","163",,,,,,,,,,,,,,,,,"Scott County, Iowa",28925,"Scott County, Iowa",1587
+"G1901690","2013",,,"Iowa","19","Story County","169",,,,,,,,,,,,,,,,,"Story County, Iowa",25162,"Story County, Iowa",1523
+"G1901930","2013",,,"Iowa","19","Woodbury County","193",,,,,,,,,,,,,,,,,"Woodbury County, Iowa",22762,"Woodbury County, Iowa",1857
+"G2000150","2013",,,"Kansas","20","Butler County","015",,,,,,,,,,,,,,,,,"Butler County, Kansas",26584,"Butler County, Kansas",2495
+"G2000450","2013",,,"Kansas","20","Douglas County","045",,,,,,,,,,,,,,,,,"Douglas County, Kansas",27745,"Douglas County, Kansas",2140
+"G2000910","2013",,,"Kansas","20","Johnson County","091",,,,,,,,,,,,,,,,,"Johnson County, Kansas",39363,"Johnson County, Kansas",1744
+"G2001030","2013",,,"Kansas","20","Leavenworth County","103",,,,,,,,,,,,,,,,,"Leavenworth County, Kansas",28060,"Leavenworth County, Kansas",1973
+"G2001610","2013",,,"Kansas","20","Riley County","161",,,,,,,,,,,,,,,,,"Riley County, Kansas",24492,"Riley County, Kansas",2484
+"G2001730","2013",,,"Kansas","20","Sedgwick County","173",,,,,,,,,,,,,,,,,"Sedgwick County, Kansas",25470,"Sedgwick County, Kansas",795
+"G2001770","2013",,,"Kansas","20","Shawnee County","177",,,,,,,,,,,,,,,,,"Shawnee County, Kansas",25156,"Shawnee County, Kansas",1013
+"G2002090","2013",,,"Kansas","20","Wyandotte County","209",,,,,,,,,,,,,,,,,"Wyandotte County, Kansas",18160,"Wyandotte County, Kansas",751
+"G2100150","2013",,,"Kentucky","21","Boone County","015",,,,,,,,,,,,,,,,,"Boone County, Kentucky",30457,"Boone County, Kentucky",1748
+"G2100290","2013",,,"Kentucky","21","Bullitt County","029",,,,,,,,,,,,,,,,,"Bullitt County, Kentucky",25133,"Bullitt County, Kentucky",1498
+"G2100370","2013",,,"Kentucky","21","Campbell County","037",,,,,,,,,,,,,,,,,"Campbell County, Kentucky",27690,"Campbell County, Kentucky",1672
+"G2100470","2013",,,"Kentucky","21","Christian County","047",,,,,,,,,,,,,,,,,"Christian County, Kentucky",23056,"Christian County, Kentucky",3078
+"G2100590","2013",,,"Kentucky","21","Daviess County","059",,,,,,,,,,,,,,,,,"Daviess County, Kentucky",24280,"Daviess County, Kentucky",1640
+"G2100670","2013",,,"Kentucky","21","Fayette County","067",,,,,,,,,,,,,,,,,"Fayette County, Kentucky",28924,"Fayette County, Kentucky",1229
+"G2100930","2013",,,"Kentucky","21","Hardin County","093",,,,,,,,,,,,,,,,,"Hardin County, Kentucky",23975,"Hardin County, Kentucky",1718
+"G2101110","2013",,,"Kentucky","21","Jefferson County","111",,,,,,,,,,,,,,,,,"Jefferson County, Kentucky",28705,"Jefferson County, Kentucky",1068
+"G2101170","2013",,,"Kentucky","21","Kenton County","117",,,,,,,,,,,,,,,,,"Kenton County, Kentucky",27072,"Kenton County, Kentucky",1464
+"G2101450","2013",,,"Kentucky","21","McCracken County","145",,,,,,,,,,,,,,,,,"McCracken County, Kentucky",23396,"McCracken County, Kentucky",2418
+"G2101510","2013",,,"Kentucky","21","Madison County","151",,,,,,,,,,,,,,,,,"Madison County, Kentucky",22608,"Madison County, Kentucky",1097
+"G2101950","2013",,,"Kentucky","21","Pike County","195",,,,,,,,,,,,,,,,,"Pike County, Kentucky",19657,"Pike County, Kentucky",1558
+"G2102270","2013",,,"Kentucky","21","Warren County","227",,,,,,,,,,,,,,,,,"Warren County, Kentucky",24243,"Warren County, Kentucky",1328
+"G2200050","2013",,,"Louisiana","22","Ascension Parish","005",,,,,,,,,,,,,,,,,"Ascension Parish, Louisiana",28826,"Ascension Parish, Louisiana",1479
+"G2200150","2013",,,"Louisiana","22","Bossier Parish","015",,,,,,,,,,,,,,,,,"Bossier Parish, Louisiana",27582,"Bossier Parish, Louisiana",1983
+"G2200170","2013",,,"Louisiana","22","Caddo Parish","017",,,,,,,,,,,,,,,,,"Caddo Parish, Louisiana",24152,"Caddo Parish, Louisiana",1476
+"G2200190","2013",,,"Louisiana","22","Calcasieu Parish","019",,,,,,,,,,,,,,,,,"Calcasieu Parish, Louisiana",24997,"Calcasieu Parish, Louisiana",1555
+"G2200330","2013",,,"Louisiana","22","East Baton Rouge Parish","033",,,,,,,,,,,,,,,,,"East Baton Rouge Parish, Louisiana",28971,"East Baton Rouge Parish, Louisiana",1424
+"G2200450","2013",,,"Louisiana","22","Iberia Parish","045",,,,,,,,,,,,,,,,,"Iberia Parish, Louisiana",23776,"Iberia Parish, Louisiana",4615
+"G2200510","2013",,,"Louisiana","22","Jefferson Parish","051",,,,,,,,,,,,,,,,,"Jefferson Parish, Louisiana",27481,"Jefferson Parish, Louisiana",1008
+"G2200550","2013",,,"Louisiana","22","Lafayette Parish","055",,,,,,,,,,,,,,,,,"Lafayette Parish, Louisiana",29363,"Lafayette Parish, Louisiana",1599
+"G2200570","2013",,,"Louisiana","22","Lafourche Parish","057",,,,,,,,,,,,,,,,,"Lafourche Parish, Louisiana",24398,"Lafourche Parish, Louisiana",1366
+"G2200630","2013",,,"Louisiana","22","Livingston Parish","063",,,,,,,,,,,,,,,,,"Livingston Parish, Louisiana",25162,"Livingston Parish, Louisiana",1771
+"G2200710","2013",,,"Louisiana","22","Orleans Parish","071",,,,,,,,,,,,,,,,,"Orleans Parish, Louisiana",26957,"Orleans Parish, Louisiana",1244
+"G2200730","2013",,,"Louisiana","22","Ouachita Parish","073",,,,,,,,,,,,,,,,,"Ouachita Parish, Louisiana",21214,"Ouachita Parish, Louisiana",1316
+"G2200790","2013",,,"Louisiana","22","Rapides Parish","079",,,,,,,,,,,,,,,,,"Rapides Parish, Louisiana",22498,"Rapides Parish, Louisiana",1626
+"G2200970","2013",,,"Louisiana","22","St. Landry Parish","097",,,,,,,,,,,,,,,,,"St. Landry Parish, Louisiana",19033,"St. Landry Parish, Louisiana",1401
+"G2201030","2013",,,"Louisiana","22","St. Tammany Parish","103",,,,,,,,,,,,,,,,,"St. Tammany Parish, Louisiana",30822,"St. Tammany Parish, Louisiana",1719
+"G2201050","2013",,,"Louisiana","22","Tangipahoa Parish","105",,,,,,,,,,,,,,,,,"Tangipahoa Parish, Louisiana",21307,"Tangipahoa Parish, Louisiana",1525
+"G2201090","2013",,,"Louisiana","22","Terrebonne Parish","109",,,,,,,,,,,,,,,,,"Terrebonne Parish, Louisiana",25136,"Terrebonne Parish, Louisiana",2225
+"G2300010","2013",,,"Maine","23","Androscoggin County","001",,,,,,,,,,,,,,,,,"Androscoggin County, Maine",23682,"Androscoggin County, Maine",1650
+"G2300030","2013",,,"Maine","23","Aroostook County","003",,,,,,,,,,,,,,,,,"Aroostook County, Maine",21112,"Aroostook County, Maine",1179
+"G2300050","2013",,,"Maine","23","Cumberland County","005",,,,,,,,,,,,,,,,,"Cumberland County, Maine",31754,"Cumberland County, Maine",1151
+"G2300110","2013",,,"Maine","23","Kennebec County","011",,,,,,,,,,,,,,,,,"Kennebec County, Maine",23442,"Kennebec County, Maine",1197
+"G2300190","2013",,,"Maine","23","Penobscot County","019",,,,,,,,,,,,,,,,,"Penobscot County, Maine",24909,"Penobscot County, Maine",1932
+"G2300310","2013",,,"Maine","23","York County","031",,,,,,,,,,,,,,,,,"York County, Maine",29968,"York County, Maine",1345
+"G2400010","2013",,,"Maryland","24","Allegany County","001",,,,,,,,,,,,,,,,,"Allegany County, Maryland",19950,"Allegany County, Maryland",1048
+"G2400030","2013",,,"Maryland","24","Anne Arundel County","003",,,,,,,,,,,,,,,,,"Anne Arundel County, Maryland",39635,"Anne Arundel County, Maryland",1323
+"G2400050","2013",,,"Maryland","24","Baltimore County","005",,,,,,,,,,,,,,,,,"Baltimore County, Maryland",33929,"Baltimore County, Maryland",811
+"G2400090","2013",,,"Maryland","24","Calvert County","009",,,,,,,,,,,,,,,,,"Calvert County, Maryland",36973,"Calvert County, Maryland",2173
+"G2400130","2013",,,"Maryland","24","Carroll County","013",,,,,,,,,,,,,,,,,"Carroll County, Maryland",36603,"Carroll County, Maryland",1282
+"G2400150","2013",,,"Maryland","24","Cecil County","015",,,,,,,,,,,,,,,,,"Cecil County, Maryland",31871,"Cecil County, Maryland",1937
+"G2400170","2013",,,"Maryland","24","Charles County","017",,,,,,,,,,,,,,,,,"Charles County, Maryland",35887,"Charles County, Maryland",1544
+"G2400210","2013",,,"Maryland","24","Frederick County","021",,,,,,,,,,,,,,,,,"Frederick County, Maryland",37575,"Frederick County, Maryland",1217
+"G2400250","2013",,,"Maryland","24","Harford County","025",,,,,,,,,,,,,,,,,"Harford County, Maryland",34799,"Harford County, Maryland",920
+"G2400270","2013",,,"Maryland","24","Howard County","027",,,,,,,,,,,,,,,,,"Howard County, Maryland",47396,"Howard County, Maryland",1578
+"G2400310","2013",,,"Maryland","24","Montgomery County","031",,,,,,,,,,,,,,,,,"Montgomery County, Maryland",48731,"Montgomery County, Maryland",1001
+"G2400330","2013",,,"Maryland","24","Prince George's County","033",,,,,,,,,,,,,,,,,"Prince George's County, Maryland",31806,"Prince George's County, Maryland",472
+"G2400370","2013",,,"Maryland","24","St. Mary's County","037",,,,,,,,,,,,,,,,,"St. Mary's County, Maryland",33592,"St. Mary's County, Maryland",2238
+"G2400430","2013",,,"Maryland","24","Washington County","043",,,,,,,,,,,,,,,,,"Washington County, Maryland",26624,"Washington County, Maryland",1221
+"G2400450","2013",,,"Maryland","24","Wicomico County","045",,,,,,,,,,,,,,,,,"Wicomico County, Maryland",26664,"Wicomico County, Maryland",3234
+"G2405100","2013",,,"Maryland","24","Baltimore city","510",,,,,,,,,,,,,,,,,"Baltimore city, Maryland",26159,"Baltimore city, Maryland",887
+"G2500010","2013",,,"Massachusetts","25","Barnstable County","001",,,,,,,,,,,,,,,,,"Barnstable County, Massachusetts",36160,"Barnstable County, Massachusetts",1789
+"G2500030","2013",,,"Massachusetts","25","Berkshire County","003",,,,,,,,,,,,,,,,,"Berkshire County, Massachusetts",30917,"Berkshire County, Massachusetts",1926
+"G2500050","2013",,,"Massachusetts","25","Bristol County","005",,,,,,,,,,,,,,,,,"Bristol County, Massachusetts",28189,"Bristol County, Massachusetts",679
+"G2500090","2013",,,"Massachusetts","25","Essex County","009",,,,,,,,,,,,,,,,,"Essex County, Massachusetts",33765,"Essex County, Massachusetts",739
+"G2500110","2013",,,"Massachusetts","25","Franklin County","011",,,,,,,,,,,,,,,,,"Franklin County, Massachusetts",30230,"Franklin County, Massachusetts",1759
+"G2500130","2013",,,"Massachusetts","25","Hampden County","013",,,,,,,,,,,,,,,,,"Hampden County, Massachusetts",26025,"Hampden County, Massachusetts",908
+"G2500150","2013",,,"Massachusetts","25","Hampshire County","015",,,,,,,,,,,,,,,,,"Hampshire County, Massachusetts",30493,"Hampshire County, Massachusetts",1858
+"G2500170","2013",,,"Massachusetts","25","Middlesex County","017",,,,,,,,,,,,,,,,,"Middlesex County, Massachusetts",43944,"Middlesex County, Massachusetts",791
+"G2500210","2013",,,"Massachusetts","25","Norfolk County","021",,,,,,,,,,,,,,,,,"Norfolk County, Massachusetts",45071,"Norfolk County, Massachusetts",1345
+"G2500230","2013",,,"Massachusetts","25","Plymouth County","023",,,,,,,,,,,,,,,,,"Plymouth County, Massachusetts",35306,"Plymouth County, Massachusetts",1076
+"G2500250","2013",,,"Massachusetts","25","Suffolk County","025",,,,,,,,,,,,,,,,,"Suffolk County, Massachusetts",33149,"Suffolk County, Massachusetts",921
+"G2500270","2013",,,"Massachusetts","25","Worcester County","027",,,,,,,,,,,,,,,,,"Worcester County, Massachusetts",30741,"Worcester County, Massachusetts",606
+"G2600050","2013",,,"Michigan","26","Allegan County","005",,,,,,,,,,,,,,,,,"Allegan County, Michigan",25110,"Allegan County, Michigan",1576
+"G2600170","2013",,,"Michigan","26","Bay County","017",,,,,,,,,,,,,,,,,"Bay County, Michigan",23157,"Bay County, Michigan",1707
+"G2600210","2013",,,"Michigan","26","Berrien County","021",,,,,,,,,,,,,,,,,"Berrien County, Michigan",24005,"Berrien County, Michigan",997
+"G2600250","2013",,,"Michigan","26","Calhoun County","025",,,,,,,,,,,,,,,,,"Calhoun County, Michigan",23468,"Calhoun County, Michigan",1588
+"G2600370","2013",,,"Michigan","26","Clinton County","037",,,,,,,,,,,,,,,,,"Clinton County, Michigan",28947,"Clinton County, Michigan",1704
+"G2600450","2013",,,"Michigan","26","Eaton County","045",,,,,,,,,,,,,,,,,"Eaton County, Michigan",26782,"Eaton County, Michigan",1140
+"G2600490","2013",,,"Michigan","26","Genesee County","049",,,,,,,,,,,,,,,,,"Genesee County, Michigan",22445,"Genesee County, Michigan",686
+"G2600550","2013",,,"Michigan","26","Grand Traverse County","055",,,,,,,,,,,,,,,,,"Grand Traverse County, Michigan",25138,"Grand Traverse County, Michigan",2270
+"G2600650","2013",,,"Michigan","26","Ingham County","065",,,,,,,,,,,,,,,,,"Ingham County, Michigan",25251,"Ingham County, Michigan",1079
+"G2600730","2013",,,"Michigan","26","Isabella County","073",,,,,,,,,,,,,,,,,"Isabella County, Michigan",18411,"Isabella County, Michigan",1175
+"G2600750","2013",,,"Michigan","26","Jackson County","075",,,,,,,,,,,,,,,,,"Jackson County, Michigan",22339,"Jackson County, Michigan",984
+"G2600770","2013",,,"Michigan","26","Kalamazoo County","077",,,,,,,,,,,,,,,,,"Kalamazoo County, Michigan",25356,"Kalamazoo County, Michigan",1095
+"G2600810","2013",,,"Michigan","26","Kent County","081",,,,,,,,,,,,,,,,,"Kent County, Michigan",26244,"Kent County, Michigan",701
+"G2600870","2013",,,"Michigan","26","Lapeer County","087",,,,,,,,,,,,,,,,,"Lapeer County, Michigan",24942,"Lapeer County, Michigan",1250
+"G2600910","2013",,,"Michigan","26","Lenawee County","091",,,,,,,,,,,,,,,,,"Lenawee County, Michigan",22269,"Lenawee County, Michigan",1133
+"G2600930","2013",,,"Michigan","26","Livingston County","093",,,,,,,,,,,,,,,,,"Livingston County, Michigan",32078,"Livingston County, Michigan",1283
+"G2600990","2013",,,"Michigan","26","Macomb County","099",,,,,,,,,,,,,,,,,"Macomb County, Michigan",27035,"Macomb County, Michigan",862
+"G2601030","2013",,,"Michigan","26","Marquette County","103",,,,,,,,,,,,,,,,,"Marquette County, Michigan",24529,"Marquette County, Michigan",2084
+"G2601110","2013",,,"Michigan","26","Midland County","111",,,,,,,,,,,,,,,,,"Midland County, Michigan",28588,"Midland County, Michigan",2237
+"G2601150","2013",,,"Michigan","26","Monroe County","115",,,,,,,,,,,,,,,,,"Monroe County, Michigan",26825,"Monroe County, Michigan",1643
+"G2601210","2013",,,"Michigan","26","Muskegon County","121",,,,,,,,,,,,,,,,,"Muskegon County, Michigan",20246,"Muskegon County, Michigan",825
+"G2601250","2013",,,"Michigan","26","Oakland County","125",,,,,,,,,,,,,,,,,"Oakland County, Michigan",36874,"Oakland County, Michigan",647
+"G2601390","2013",,,"Michigan","26","Ottawa County","139",,,,,,,,,,,,,,,,,"Ottawa County, Michigan",26078,"Ottawa County, Michigan",1118
+"G2601450","2013",,,"Michigan","26","Saginaw County","145",,,,,,,,,,,,,,,,,"Saginaw County, Michigan",23077,"Saginaw County, Michigan",1209
+"G2601470","2013",,,"Michigan","26","St. Clair County","147",,,,,,,,,,,,,,,,,"St. Clair County, Michigan",24604,"St. Clair County, Michigan",1001
+"G2601550","2013",,,"Michigan","26","Shiawassee County","155",,,,,,,,,,,,,,,,,"Shiawassee County, Michigan",20857,"Shiawassee County, Michigan",1240
+"G2601590","2013",,,"Michigan","26","Van Buren County","159",,,,,,,,,,,,,,,,,"Van Buren County, Michigan",22414,"Van Buren County, Michigan",1572
+"G2601610","2013",,,"Michigan","26","Washtenaw County","161",,,,,,,,,,,,,,,,,"Washtenaw County, Michigan",33801,"Washtenaw County, Michigan",1002
+"G2601630","2013",,,"Michigan","26","Wayne County","163",,,,,,,,,,,,,,,,,"Wayne County, Michigan",22538,"Wayne County, Michigan",369
+"G2700030","2013",,,"Minnesota","27","Anoka County","003",,,,,,,,,,,,,,,,,"Anoka County, Minnesota",30507,"Anoka County, Minnesota",824
+"G2700130","2013",,,"Minnesota","27","Blue Earth County","013",,,,,,,,,,,,,,,,,"Blue Earth County, Minnesota",27261,"Blue Earth County, Minnesota",2131
+"G2700190","2013",,,"Minnesota","27","Carver County","019",,,,,,,,,,,,,,,,,"Carver County, Minnesota",39632,"Carver County, Minnesota",3421
+"G2700370","2013",,,"Minnesota","27","Dakota County","037",,,,,,,,,,,,,,,,,"Dakota County, Minnesota",35376,"Dakota County, Minnesota",960
+"G2700530","2013",,,"Minnesota","27","Hennepin County","053",,,,,,,,,,,,,,,,,"Hennepin County, Minnesota",37470,"Hennepin County, Minnesota",983
+"G2701090","2013",,,"Minnesota","27","Olmsted County","109",,,,,,,,,,,,,,,,,"Olmsted County, Minnesota",35714,"Olmsted County, Minnesota",1539
+"G2701230","2013",,,"Minnesota","27","Ramsey County","123",,,,,,,,,,,,,,,,,"Ramsey County, Minnesota",29864,"Ramsey County, Minnesota",779
+"G2701310","2013",,,"Minnesota","27","Rice County","131",,,,,,,,,,,,,,,,,"Rice County, Minnesota",26143,"Rice County, Minnesota",1873
+"G2701370","2013",,,"Minnesota","27","St. Louis County","137",,,,,,,,,,,,,,,,,"St. Louis County, Minnesota",26122,"St. Louis County, Minnesota",903
+"G2701390","2013",,,"Minnesota","27","Scott County","139",,,,,,,,,,,,,,,,,"Scott County, Minnesota",34552,"Scott County, Minnesota",1644
+"G2701410","2013",,,"Minnesota","27","Sherburne County","141",,,,,,,,,,,,,,,,,"Sherburne County, Minnesota",28935,"Sherburne County, Minnesota",1640
+"G2701450","2013",,,"Minnesota","27","Stearns County","145",,,,,,,,,,,,,,,,,"Stearns County, Minnesota",27806,"Stearns County, Minnesota",1233
+"G2701630","2013",,,"Minnesota","27","Washington County","163",,,,,,,,,,,,,,,,,"Washington County, Minnesota",36390,"Washington County, Minnesota",1297
+"G2701710","2013",,,"Minnesota","27","Wright County","171",,,,,,,,,,,,,,,,,"Wright County, Minnesota",29250,"Wright County, Minnesota",1374
+"G2800330","2013",,,"Mississippi","28","DeSoto County","033",,,,,,,,,,,,,,,,,"DeSoto County, Mississippi",25091,"DeSoto County, Mississippi",1033
+"G2800350","2013",,,"Mississippi","28","Forrest County","035",,,,,,,,,,,,,,,,,"Forrest County, Mississippi",18830,"Forrest County, Mississippi",1821
+"G2800470","2013",,,"Mississippi","28","Harrison County","047",,,,,,,,,,,,,,,,,"Harrison County, Mississippi",20996,"Harrison County, Mississippi",942
+"G2800490","2013",,,"Mississippi","28","Hinds County","049",,,,,,,,,,,,,,,,,"Hinds County, Mississippi",19315,"Hinds County, Mississippi",1003
+"G2800590","2013",,,"Mississippi","28","Jackson County","059",,,,,,,,,,,,,,,,,"Jackson County, Mississippi",21584,"Jackson County, Mississippi",1068
+"G2800670","2013",,,"Mississippi","28","Jones County","067",,,,,,,,,,,,,,,,,"Jones County, Mississippi",17262,"Jones County, Mississippi",1435
+"G2800750","2013",,,"Mississippi","28","Lauderdale County","075",,,,,,,,,,,,,,,,,"Lauderdale County, Mississippi",21835,"Lauderdale County, Mississippi",2317
+"G2800810","2013",,,"Mississippi","28","Lee County","081",,,,,,,,,,,,,,,,,"Lee County, Mississippi",21416,"Lee County, Mississippi",1640
+"G2800890","2013",,,"Mississippi","28","Madison County","089",,,,,,,,,,,,,,,,,"Madison County, Mississippi",34991,"Madison County, Mississippi",2985
+"G2801210","2013",,,"Mississippi","28","Rankin County","121",,,,,,,,,,,,,,,,,"Rankin County, Mississippi",26645,"Rankin County, Mississippi",1426
+"G2900190","2013",,,"Missouri","29","Boone County","019",,,,,,,,,,,,,,,,,"Boone County, Missouri",26622,"Boone County, Missouri",1834
+"G2900210","2013",,,"Missouri","29","Buchanan County","021",,,,,,,,,,,,,,,,,"Buchanan County, Missouri",20994,"Buchanan County, Missouri",1048
+"G2900310","2013",,,"Missouri","29","Cape Girardeau County","031",,,,,,,,,,,,,,,,,"Cape Girardeau County, Missouri",22487,"Cape Girardeau County, Missouri",1454
+"G2900370","2013",,,"Missouri","29","Cass County","037",,,,,,,,,,,,,,,,,"Cass County, Missouri",29264,"Cass County, Missouri",1782
+"G2900430","2013",,,"Missouri","29","Christian County","043",,,,,,,,,,,,,,,,,"Christian County, Missouri",25890,"Christian County, Missouri",2124
+"G2900470","2013",,,"Missouri","29","Clay County","047",,,,,,,,,,,,,,,,,"Clay County, Missouri",27937,"Clay County, Missouri",1029
+"G2900510","2013",,,"Missouri","29","Cole County","051",,,,,,,,,,,,,,,,,"Cole County, Missouri",24144,"Cole County, Missouri",1358
+"G2900710","2013",,,"Missouri","29","Franklin County","071",,,,,,,,,,,,,,,,,"Franklin County, Missouri",24479,"Franklin County, Missouri",1769
+"G2900770","2013",,,"Missouri","29","Greene County","077",,,,,,,,,,,,,,,,,"Greene County, Missouri",23501,"Greene County, Missouri",1008
+"G2900950","2013",,,"Missouri","29","Jackson County","095",,,,,,,,,,,,,,,,,"Jackson County, Missouri",25841,"Jackson County, Missouri",588
+"G2900970","2013",,,"Missouri","29","Jasper County","097",,,,,,,,,,,,,,,,,"Jasper County, Missouri",21322,"Jasper County, Missouri",1550
+"G2900990","2013",,,"Missouri","29","Jefferson County","099",,,,,,,,,,,,,,,,,"Jefferson County, Missouri",24902,"Jefferson County, Missouri",1014
+"G2901650","2013",,,"Missouri","29","Platte County","165",,,,,,,,,,,,,,,,,"Platte County, Missouri",33452,"Platte County, Missouri",2643
+"G2901830","2013",,,"Missouri","29","St. Charles County","183",,,,,,,,,,,,,,,,,"St. Charles County, Missouri",31813,"St. Charles County, Missouri",888
+"G2901870","2013",,,"Missouri","29","St. Francois County","187",,,,,,,,,,,,,,,,,"St. Francois County, Missouri",16475,"St. Francois County, Missouri",1181
+"G2901890","2013",,,"Missouri","29","St. Louis County","189",,,,,,,,,,,,,,,,,"St. Louis County, Missouri",34432,"St. Louis County, Missouri",733
+"G2905100","2013",,,"Missouri","29","St. Louis city","510",,,,,,,,,,,,,,,,,"St. Louis city, Missouri",22921,"St. Louis city, Missouri",947
+"G3000130","2013",,,"Montana","30","Cascade County","013",,,,,,,,,,,,,,,,,"Cascade County, Montana",25654,"Cascade County, Montana",1688
+"G3000290","2013",,,"Montana","30","Flathead County","029",,,,,,,,,,,,,,,,,"Flathead County, Montana",25166,"Flathead County, Montana",1850
+"G3000310","2013",,,"Montana","30","Gallatin County","031",,,,,,,,,,,,,,,,,"Gallatin County, Montana",30298,"Gallatin County, Montana",2211
+"G3000490","2013",,,"Montana","30","Lewis and Clark County","049",,,,,,,,,,,,,,,,,"Lewis and Clark County, Montana",28526,"Lewis and Clark County, Montana",1745
+"G3000630","2013",,,"Montana","30","Missoula County","063",,,,,,,,,,,,,,,,,"Missoula County, Montana",26009,"Missoula County, Montana",2112
+"G3001110","2013",,,"Montana","30","Yellowstone County","111",,,,,,,,,,,,,,,,,"Yellowstone County, Montana",29030,"Yellowstone County, Montana",1662
+"G3100550","2013",,,"Nebraska","31","Douglas County","055",,,,,,,,,,,,,,,,,"Douglas County, Nebraska",28618,"Douglas County, Nebraska",791
+"G3101090","2013",,,"Nebraska","31","Lancaster County","109",,,,,,,,,,,,,,,,,"Lancaster County, Nebraska",27133,"Lancaster County, Nebraska",923
+"G3101530","2013",,,"Nebraska","31","Sarpy County","153",,,,,,,,,,,,,,,,,"Sarpy County, Nebraska",28732,"Sarpy County, Nebraska",1086
+"G3200030","2013",,,"Nevada","32","Clark County","003",,,,,,,,,,,,,,,,,"Clark County, Nevada",25161,"Clark County, Nevada",510
+"G3200310","2013",,,"Nevada","32","Washoe County","031",,,,,,,,,,,,,,,,,"Washoe County, Nevada",29072,"Washoe County, Nevada",1056
+"G3300050","2013",,,"New Hampshire","33","Cheshire County","005",,,,,,,,,,,,,,,,,"Cheshire County, New Hampshire",26997,"Cheshire County, New Hampshire",1716
+"G3300090","2013",,,"New Hampshire","33","Grafton County","009",,,,,,,,,,,,,,,,,"Grafton County, New Hampshire",30678,"Grafton County, New Hampshire",2333
+"G3300110","2013",,,"New Hampshire","33","Hillsborough County","011",,,,,,,,,,,,,,,,,"Hillsborough County, New Hampshire",33966,"Hillsborough County, New Hampshire",1308
+"G3300130","2013",,,"New Hampshire","33","Merrimack County","013",,,,,,,,,,,,,,,,,"Merrimack County, New Hampshire",30710,"Merrimack County, New Hampshire",1293
+"G3300150","2013",,,"New Hampshire","33","Rockingham County","015",,,,,,,,,,,,,,,,,"Rockingham County, New Hampshire",38976,"Rockingham County, New Hampshire",1936
+"G3300170","2013",,,"New Hampshire","33","Strafford County","017",,,,,,,,,,,,,,,,,"Strafford County, New Hampshire",28619,"Strafford County, New Hampshire",1578
+"G3400010","2013",,,"New Jersey","34","Atlantic County","001",,,,,,,,,,,,,,,,,"Atlantic County, New Jersey",26567,"Atlantic County, New Jersey",1034
+"G3400030","2013",,,"New Jersey","34","Bergen County","003",,,,,,,,,,,,,,,,,"Bergen County, New Jersey",43412,"Bergen County, New Jersey",1068
+"G3400050","2013",,,"New Jersey","34","Burlington County","005",,,,,,,,,,,,,,,,,"Burlington County, New Jersey",35930,"Burlington County, New Jersey",911
+"G3400070","2013",,,"New Jersey","34","Camden County","007",,,,,,,,,,,,,,,,,"Camden County, New Jersey",29512,"Camden County, New Jersey",1010
+"G3400090","2013",,,"New Jersey","34","Cape May County","009",,,,,,,,,,,,,,,,,"Cape May County, New Jersey",31995,"Cape May County, New Jersey",1641
+"G3400110","2013",,,"New Jersey","34","Cumberland County","011",,,,,,,,,,,,,,,,,"Cumberland County, New Jersey",21129,"Cumberland County, New Jersey",1376
+"G3400130","2013",,,"New Jersey","34","Essex County","013",,,,,,,,,,,,,,,,,"Essex County, New Jersey",31595,"Essex County, New Jersey",945
+"G3400150","2013",,,"New Jersey","34","Gloucester County","015",,,,,,,,,,,,,,,,,"Gloucester County, New Jersey",32051,"Gloucester County, New Jersey",1143
+"G3400170","2013",,,"New Jersey","34","Hudson County","017",,,,,,,,,,,,,,,,,"Hudson County, New Jersey",32136,"Hudson County, New Jersey",969
+"G3400190","2013",,,"New Jersey","34","Hunterdon County","019",,,,,,,,,,,,,,,,,"Hunterdon County, New Jersey",53134,"Hunterdon County, New Jersey",4038
+"G3400210","2013",,,"New Jersey","34","Mercer County","021",,,,,,,,,,,,,,,,,"Mercer County, New Jersey",36160,"Mercer County, New Jersey",1377
+"G3400230","2013",,,"New Jersey","34","Middlesex County","023",,,,,,,,,,,,,,,,,"Middlesex County, New Jersey",33317,"Middlesex County, New Jersey",796
+"G3400250","2013",,,"New Jersey","34","Monmouth County","025",,,,,,,,,,,,,,,,,"Monmouth County, New Jersey",42021,"Monmouth County, New Jersey",1337
+"G3400270","2013",,,"New Jersey","34","Morris County","027",,,,,,,,,,,,,,,,,"Morris County, New Jersey",50154,"Morris County, New Jersey",1734
+"G3400290","2013",,,"New Jersey","34","Ocean County","029",,,,,,,,,,,,,,,,,"Ocean County, New Jersey",30199,"Ocean County, New Jersey",911
+"G3400310","2013",,,"New Jersey","34","Passaic County","031",,,,,,,,,,,,,,,,,"Passaic County, New Jersey",27892,"Passaic County, New Jersey",1088
+"G3400330","2013",,,"New Jersey","34","Salem County","033",,,,,,,,,,,,,,,,,"Salem County, New Jersey",28791,"Salem County, New Jersey",1836
+"G3400350","2013",,,"New Jersey","34","Somerset County","035",,,,,,,,,,,,,,,,,"Somerset County, New Jersey",48041,"Somerset County, New Jersey",1858
+"G3400370","2013",,,"New Jersey","34","Sussex County","037",,,,,,,,,,,,,,,,,"Sussex County, New Jersey",39225,"Sussex County, New Jersey",1978
+"G3400390","2013",,,"New Jersey","34","Union County","039",,,,,,,,,,,,,,,,,"Union County, New Jersey",34929,"Union County, New Jersey",1227
+"G3400410","2013",,,"New Jersey","34","Warren County","041",,,,,,,,,,,,,,,,,"Warren County, New Jersey",34242,"Warren County, New Jersey",2015
+"G3500010","2013",,,"New Mexico","35","Bernalillo County","001",,,,,,,,,,,,,,,,,"Bernalillo County, New Mexico",26156,"Bernalillo County, New Mexico",820
+"G3500050","2013",,,"New Mexico","35","Chaves County","005",,,,,,,,,,,,,,,,,"Chaves County, New Mexico",22553,"Chaves County, New Mexico",2068
+"G3500130","2013",,,"New Mexico","35","Doña Ana County","013",,,,,,,,,,,,,,,,,"Doña Ana County, New Mexico",19393,"Doña Ana County, New Mexico",1166
+"G3500250","2013",,,"New Mexico","35","Lea County","025",,,,,,,,,,,,,,,,,"Lea County, New Mexico",24746,"Lea County, New Mexico",2031
+"G3500310","2013",,,"New Mexico","35","McKinley County","031",,,,,,,,,,,,,,,,,"McKinley County, New Mexico",11107,"McKinley County, New Mexico",913
+"G3500350","2013",,,"New Mexico","35","Otero County","035",,,,,,,,,,,,,,,,,"Otero County, New Mexico",19397,"Otero County, New Mexico",1448
+"G3500430","2013",,,"New Mexico","35","Sandoval County","043",,,,,,,,,,,,,,,,,"Sandoval County, New Mexico",26506,"Sandoval County, New Mexico",1381
+"G3500450","2013",,,"New Mexico","35","San Juan County","045",,,,,,,,,,,,,,,,,"San Juan County, New Mexico",20179,"San Juan County, New Mexico",1272
+"G3500490","2013",,,"New Mexico","35","Santa Fe County","049",,,,,,,,,,,,,,,,,"Santa Fe County, New Mexico",30920,"Santa Fe County, New Mexico",1587
+"G3500610","2013",,,"New Mexico","35","Valencia County","061",,,,,,,,,,,,,,,,,"Valencia County, New Mexico",18087,"Valencia County, New Mexico",1409
+"G3600010","2013",,,"New York","36","Albany County","001",,,,,,,,,,,,,,,,,"Albany County, New York",32367,"Albany County, New York",1357
+"G3600050","2013",,,"New York","36","Bronx County","005",,,,,,,,,,,,,,,,,"Bronx County, New York",17907,"Bronx County, New York",429
+"G3600070","2013",,,"New York","36","Broome County","007",,,,,,,,,,,,,,,,,"Broome County, New York",24992,"Broome County, New York",1276
+"G3600090","2013",,,"New York","36","Cattaraugus County","009",,,,,,,,,,,,,,,,,"Cattaraugus County, New York",22369,"Cattaraugus County, New York",1354
+"G3600110","2013",,,"New York","36","Cayuga County","011",,,,,,,,,,,,,,,,,"Cayuga County, New York",25909,"Cayuga County, New York",1402
+"G3600130","2013",,,"New York","36","Chautauqua County","013",,,,,,,,,,,,,,,,,"Chautauqua County, New York",22058,"Chautauqua County, New York",1165
+"G3600150","2013",,,"New York","36","Chemung County","015",,,,,,,,,,,,,,,,,"Chemung County, New York",25674,"Chemung County, New York",2080
+"G3600190","2013",,,"New York","36","Clinton County","019",,,,,,,,,,,,,,,,,"Clinton County, New York",24575,"Clinton County, New York",2179
+"G3600270","2013",,,"New York","36","Dutchess County","027",,,,,,,,,,,,,,,,,"Dutchess County, New York",33716,"Dutchess County, New York",1157
+"G3600290","2013",,,"New York","36","Erie County","029",,,,,,,,,,,,,,,,,"Erie County, New York",28182,"Erie County, New York",506
+"G3600450","2013",,,"New York","36","Jefferson County","045",,,,,,,,,,,,,,,,,"Jefferson County, New York",22784,"Jefferson County, New York",1396
+"G3600470","2013",,,"New York","36","Kings County","047",,,,,,,,,,,,,,,,,"Kings County, New York",26641,"Kings County, New York",503
+"G3600510","2013",,,"New York","36","Livingston County","051",,,,,,,,,,,,,,,,,"Livingston County, New York",24486,"Livingston County, New York",1296
+"G3600530","2013",,,"New York","36","Madison County","053",,,,,,,,,,,,,,,,,"Madison County, New York",25560,"Madison County, New York",1877
+"G3600550","2013",,,"New York","36","Monroe County","055",,,,,,,,,,,,,,,,,"Monroe County, New York",28824,"Monroe County, New York",755
+"G3600590","2013",,,"New York","36","Nassau County","059",,,,,,,,,,,,,,,,,"Nassau County, New York",42183,"Nassau County, New York",745
+"G3600610","2013",,,"New York","36","New York County","061",,,,,,,,,,,,,,,,,"New York County, New York",63336,"New York County, New York",2591
+"G3600630","2013",,,"New York","36","Niagara County","063",,,,,,,,,,,,,,,,,"Niagara County, New York",25710,"Niagara County, New York",1370
+"G3600650","2013",,,"New York","36","Oneida County","065",,,,,,,,,,,,,,,,,"Oneida County, New York",23226,"Oneida County, New York",837
+"G3600670","2013",,,"New York","36","Onondaga County","067",,,,,,,,,,,,,,,,,"Onondaga County, New York",29022,"Onondaga County, New York",935
+"G3600690","2013",,,"New York","36","Ontario County","069",,,,,,,,,,,,,,,,,"Ontario County, New York",30405,"Ontario County, New York",2073
+"G3600710","2013",,,"New York","36","Orange County","071",,,,,,,,,,,,,,,,,"Orange County, New York",30587,"Orange County, New York",1576
+"G3600750","2013",,,"New York","36","Oswego County","075",,,,,,,,,,,,,,,,,"Oswego County, New York",23101,"Oswego County, New York",1050
+"G3600790","2013",,,"New York","36","Putnam County","079",,,,,,,,,,,,,,,,,"Putnam County, New York",40315,"Putnam County, New York",2631
+"G3600810","2013",,,"New York","36","Queens County","081",,,,,,,,,,,,,,,,,"Queens County, New York",26463,"Queens County, New York",402
+"G3600830","2013",,,"New York","36","Rensselaer County","083",,,,,,,,,,,,,,,,,"Rensselaer County, New York",28844,"Rensselaer County, New York",1366
+"G3600850","2013",,,"New York","36","Richmond County","085",,,,,,,,,,,,,,,,,"Richmond County, New York",32375,"Richmond County, New York",1210
+"G3600870","2013",,,"New York","36","Rockland County","087",,,,,,,,,,,,,,,,,"Rockland County, New York",33429,"Rockland County, New York",1450
+"G3600890","2013",,,"New York","36","St. Lawrence County","089",,,,,,,,,,,,,,,,,"St. Lawrence County, New York",21771,"St. Lawrence County, New York",1728
+"G3600910","2013",,,"New York","36","Saratoga County","091",,,,,,,,,,,,,,,,,"Saratoga County, New York",35265,"Saratoga County, New York",1349
+"G3600930","2013",,,"New York","36","Schenectady County","093",,,,,,,,,,,,,,,,,"Schenectady County, New York",26833,"Schenectady County, New York",1223
+"G3601010","2013",,,"New York","36","Steuben County","101",,,,,,,,,,,,,,,,,"Steuben County, New York",26121,"Steuben County, New York",1951
+"G3601030","2013",,,"New York","36","Suffolk County","103",,,,,,,,,,,,,,,,,"Suffolk County, New York",36639,"Suffolk County, New York",676
+"G3601050","2013",,,"New York","36","Sullivan County","105",,,,,,,,,,,,,,,,,"Sullivan County, New York",24141,"Sullivan County, New York",2141
+"G3601090","2013",,,"New York","36","Tompkins County","109",,,,,,,,,,,,,,,,,"Tompkins County, New York",26677,"Tompkins County, New York",2143
+"G3601110","2013",,,"New York","36","Ulster County","111",,,,,,,,,,,,,,,,,"Ulster County, New York",29821,"Ulster County, New York",1368
+"G3601130","2013",,,"New York","36","Warren County","113",,,,,,,,,,,,,,,,,"Warren County, New York",31671,"Warren County, New York",2676
+"G3601170","2013",,,"New York","36","Wayne County","117",,,,,,,,,,,,,,,,,"Wayne County, New York",23882,"Wayne County, New York",1181
+"G3601190","2013",,,"New York","36","Westchester County","119",,,,,,,,,,,,,,,,,"Westchester County, New York",47305,"Westchester County, New York",1298
+"G3700010","2013",,,"North Carolina","37","Alamance County","001",,,,,,,,,,,,,,,,,"Alamance County, North Carolina",22006,"Alamance County, North Carolina",1123
+"G3700190","2013",,,"North Carolina","37","Brunswick County","019",,,,,,,,,,,,,,,,,"Brunswick County, North Carolina",26237,"Brunswick County, North Carolina",1544
+"G3700210","2013",,,"North Carolina","37","Buncombe County","021",,,,,,,,,,,,,,,,,"Buncombe County, North Carolina",26787,"Buncombe County, North Carolina",1214
+"G3700230","2013",,,"North Carolina","37","Burke County","023",,,,,,,,,,,,,,,,,"Burke County, North Carolina",18484,"Burke County, North Carolina",987
+"G3700250","2013",,,"North Carolina","37","Cabarrus County","025",,,,,,,,,,,,,,,,,"Cabarrus County, North Carolina",25538,"Cabarrus County, North Carolina",1123
+"G3700270","2013",,,"North Carolina","37","Caldwell County","027",,,,,,,,,,,,,,,,,"Caldwell County, North Carolina",19038,"Caldwell County, North Carolina",2497
+"G3700310","2013",,,"North Carolina","37","Carteret County","031",,,,,,,,,,,,,,,,,"Carteret County, North Carolina",26418,"Carteret County, North Carolina",1509
+"G3700350","2013",,,"North Carolina","37","Catawba County","035",,,,,,,,,,,,,,,,,"Catawba County, North Carolina",22756,"Catawba County, North Carolina",1576
+"G3700370","2013",,,"North Carolina","37","Chatham County","037",,,,,,,,,,,,,,,,,"Chatham County, North Carolina",31033,"Chatham County, North Carolina",2680
+"G3700450","2013",,,"North Carolina","37","Cleveland County","045",,,,,,,,,,,,,,,,,"Cleveland County, North Carolina",21322,"Cleveland County, North Carolina",1882
+"G3700490","2013",,,"North Carolina","37","Craven County","049",,,,,,,,,,,,,,,,,"Craven County, North Carolina",23551,"Craven County, North Carolina",1499
+"G3700510","2013",,,"North Carolina","37","Cumberland County","051",,,,,,,,,,,,,,,,,"Cumberland County, North Carolina",22459,"Cumberland County, North Carolina",712
+"G3700570","2013",,,"North Carolina","37","Davidson County","057",,,,,,,,,,,,,,,,,"Davidson County, North Carolina",21748,"Davidson County, North Carolina",1428
+"G3700630","2013",,,"North Carolina","37","Durham County","063",,,,,,,,,,,,,,,,,"Durham County, North Carolina",31666,"Durham County, North Carolina",1677
+"G3700670","2013",,,"North Carolina","37","Forsyth County","067",,,,,,,,,,,,,,,,,"Forsyth County, North Carolina",26563,"Forsyth County, North Carolina",1098
+"G3700710","2013",,,"North Carolina","37","Gaston County","071",,,,,,,,,,,,,,,,,"Gaston County, North Carolina",22618,"Gaston County, North Carolina",963
+"G3700810","2013",,,"North Carolina","37","Guilford County","081",,,,,,,,,,,,,,,,,"Guilford County, North Carolina",26870,"Guilford County, North Carolina",1291
+"G3700850","2013",,,"North Carolina","37","Harnett County","085",,,,,,,,,,,,,,,,,"Harnett County, North Carolina",21293,"Harnett County, North Carolina",1235
+"G3700890","2013",,,"North Carolina","37","Henderson County","089",,,,,,,,,,,,,,,,,"Henderson County, North Carolina",24896,"Henderson County, North Carolina",1579
+"G3700970","2013",,,"North Carolina","37","Iredell County","097",,,,,,,,,,,,,,,,,"Iredell County, North Carolina",26720,"Iredell County, North Carolina",1642
+"G3701010","2013",,,"North Carolina","37","Johnston County","101",,,,,,,,,,,,,,,,,"Johnston County, North Carolina",22512,"Johnston County, North Carolina",1071
+"G3701090","2013",,,"North Carolina","37","Lincoln County","109",,,,,,,,,,,,,,,,,"Lincoln County, North Carolina",26095,"Lincoln County, North Carolina",2187
+"G3701190","2013",,,"North Carolina","37","Mecklenburg County","119",,,,,,,,,,,,,,,,,"Mecklenburg County, North Carolina",31993,"Mecklenburg County, North Carolina",873
+"G3701250","2013",,,"North Carolina","37","Moore County","125",,,,,,,,,,,,,,,,,"Moore County, North Carolina",27964,"Moore County, North Carolina",2135
+"G3701270","2013",,,"North Carolina","37","Nash County","127",,,,,,,,,,,,,,,,,"Nash County, North Carolina",22663,"Nash County, North Carolina",2050
+"G3701290","2013",,,"North Carolina","37","New Hanover County","129",,,,,,,,,,,,,,,,,"New Hanover County, North Carolina",28809,"New Hanover County, North Carolina",1604
+"G3701330","2013",,,"North Carolina","37","Onslow County","133",,,,,,,,,,,,,,,,,"Onslow County, North Carolina",20687,"Onslow County, North Carolina",971
+"G3701350","2013",,,"North Carolina","37","Orange County","135",,,,,,,,,,,,,,,,,"Orange County, North Carolina",34949,"Orange County, North Carolina",2393
+"G3701470","2013",,,"North Carolina","37","Pitt County","147",,,,,,,,,,,,,,,,,"Pitt County, North Carolina",24087,"Pitt County, North Carolina",1512
+"G3701510","2013",,,"North Carolina","37","Randolph County","151",,,,,,,,,,,,,,,,,"Randolph County, North Carolina",19780,"Randolph County, North Carolina",952
+"G3701550","2013",,,"North Carolina","37","Robeson County","155",,,,,,,,,,,,,,,,,"Robeson County, North Carolina",14752,"Robeson County, North Carolina",845
+"G3701570","2013",,,"North Carolina","37","Rockingham County","157",,,,,,,,,,,,,,,,,"Rockingham County, North Carolina",21013,"Rockingham County, North Carolina",1238
+"G3701590","2013",,,"North Carolina","37","Rowan County","159",,,,,,,,,,,,,,,,,"Rowan County, North Carolina",19985,"Rowan County, North Carolina",996
+"G3701610","2013",,,"North Carolina","37","Rutherford County","161",,,,,,,,,,,,,,,,,"Rutherford County, North Carolina",19044,"Rutherford County, North Carolina",1883
+"G3701710","2013",,,"North Carolina","37","Surry County","171",,,,,,,,,,,,,,,,,"Surry County, North Carolina",19377,"Surry County, North Carolina",1075
+"G3701790","2013",,,"North Carolina","37","Union County","179",,,,,,,,,,,,,,,,,"Union County, North Carolina",29374,"Union County, North Carolina",2349
+"G3701830","2013",,,"North Carolina","37","Wake County","183",,,,,,,,,,,,,,,,,"Wake County, North Carolina",33917,"Wake County, North Carolina",806
+"G3701910","2013",,,"North Carolina","37","Wayne County","191",,,,,,,,,,,,,,,,,"Wayne County, North Carolina",21007,"Wayne County, North Carolina",1095
+"G3701930","2013",,,"North Carolina","37","Wilkes County","193",,,,,,,,,,,,,,,,,"Wilkes County, North Carolina",18154,"Wilkes County, North Carolina",2092
+"G3701950","2013",,,"North Carolina","37","Wilson County","195",,,,,,,,,,,,,,,,,"Wilson County, North Carolina",22057,"Wilson County, North Carolina",1446
+"G3800150","2013",,,"North Dakota","38","Burleigh County","015",,,,,,,,,,,,,,,,,"Burleigh County, North Dakota",33050,"Burleigh County, North Dakota",1573
+"G3800170","2013",,,"North Dakota","38","Cass County","017",,,,,,,,,,,,,,,,,"Cass County, North Dakota",29681,"Cass County, North Dakota",1778
+"G3800350","2013",,,"North Dakota","38","Grand Forks County","035",,,,,,,,,,,,,,,,,"Grand Forks County, North Dakota",27614,"Grand Forks County, North Dakota",2043
+"G3801010","2013",,,"North Dakota","38","Ward County","101",,,,,,,,,,,,,,,,,"Ward County, North Dakota",29906,"Ward County, North Dakota",2531
+"G3900030","2013",,,"Ohio","39","Allen County","003",,,,,,,,,,,,,,,,,"Allen County, Ohio",21962,"Allen County, Ohio",1402
+"G3900070","2013",,,"Ohio","39","Ashtabula County","007",,,,,,,,,,,,,,,,,"Ashtabula County, Ohio",19631,"Ashtabula County, Ohio",797
+"G3900130","2013",,,"Ohio","39","Belmont County","013",,,,,,,,,,,,,,,,,"Belmont County, Ohio",22862,"Belmont County, Ohio",1778
+"G3900170","2013",,,"Ohio","39","Butler County","017",,,,,,,,,,,,,,,,,"Butler County, Ohio",27041,"Butler County, Ohio",938
+"G3900230","2013",,,"Ohio","39","Clark County","023",,,,,,,,,,,,,,,,,"Clark County, Ohio",24059,"Clark County, Ohio",1316
+"G3900250","2013",,,"Ohio","39","Clermont County","025",,,,,,,,,,,,,,,,,"Clermont County, Ohio",28766,"Clermont County, Ohio",1242
+"G3900290","2013",,,"Ohio","39","Columbiana County","029",,,,,,,,,,,,,,,,,"Columbiana County, Ohio",21299,"Columbiana County, Ohio",1477
+"G3900350","2013",,,"Ohio","39","Cuyahoga County","035",,,,,,,,,,,,,,,,,"Cuyahoga County, Ohio",28555,"Cuyahoga County, Ohio",614
+"G3900410","2013",,,"Ohio","39","Delaware County","041",,,,,,,,,,,,,,,,,"Delaware County, Ohio",39715,"Delaware County, Ohio",1675
+"G3900430","2013",,,"Ohio","39","Erie County","043",,,,,,,,,,,,,,,,,"Erie County, Ohio",25760,"Erie County, Ohio",1657
+"G3900450","2013",,,"Ohio","39","Fairfield County","045",,,,,,,,,,,,,,,,,"Fairfield County, Ohio",25781,"Fairfield County, Ohio",1003
+"G3900490","2013",,,"Ohio","39","Franklin County","049",,,,,,,,,,,,,,,,,"Franklin County, Ohio",28481,"Franklin County, Ohio",634
+"G3900550","2013",,,"Ohio","39","Geauga County","055",,,,,,,,,,,,,,,,,"Geauga County, Ohio",32209,"Geauga County, Ohio",2049
+"G3900570","2013",,,"Ohio","39","Greene County","057",,,,,,,,,,,,,,,,,"Greene County, Ohio",30579,"Greene County, Ohio",1843
+"G3900610","2013",,,"Ohio","39","Hamilton County","061",,,,,,,,,,,,,,,,,"Hamilton County, Ohio",29883,"Hamilton County, Ohio",796
+"G3900630","2013",,,"Ohio","39","Hancock County","063",,,,,,,,,,,,,,,,,"Hancock County, Ohio",27193,"Hancock County, Ohio",1972
+"G3900810","2013",,,"Ohio","39","Jefferson County","081",,,,,,,,,,,,,,,,,"Jefferson County, Ohio",20864,"Jefferson County, Ohio",1290
+"G3900850","2013",,,"Ohio","39","Lake County","085",,,,,,,,,,,,,,,,,"Lake County, Ohio",28900,"Lake County, Ohio",1258
+"G3900890","2013",,,"Ohio","39","Licking County","089",,,,,,,,,,,,,,,,,"Licking County, Ohio",26705,"Licking County, Ohio",1226
+"G3900930","2013",,,"Ohio","39","Lorain County","093",,,,,,,,,,,,,,,,,"Lorain County, Ohio",26718,"Lorain County, Ohio",1043
+"G3900950","2013",,,"Ohio","39","Lucas County","095",,,,,,,,,,,,,,,,,"Lucas County, Ohio",23528,"Lucas County, Ohio",814
+"G3900990","2013",,,"Ohio","39","Mahoning County","099",,,,,,,,,,,,,,,,,"Mahoning County, Ohio",23455,"Mahoning County, Ohio",972
+"G3901010","2013",,,"Ohio","39","Marion County","101",,,,,,,,,,,,,,,,,"Marion County, Ohio",21532,"Marion County, Ohio",2346
+"G3901030","2013",,,"Ohio","39","Medina County","103",,,,,,,,,,,,,,,,,"Medina County, Ohio",30858,"Medina County, Ohio",1285
+"G3901090","2013",,,"Ohio","39","Miami County","109",,,,,,,,,,,,,,,,,"Miami County, Ohio",25032,"Miami County, Ohio",1290
+"G3901130","2013",,,"Ohio","39","Montgomery County","113",,,,,,,,,,,,,,,,,"Montgomery County, Ohio",25038,"Montgomery County, Ohio",771
+"G3901190","2013",,,"Ohio","39","Muskingum County","119",,,,,,,,,,,,,,,,,"Muskingum County, Ohio",20722,"Muskingum County, Ohio",1537
+"G3901330","2013",,,"Ohio","39","Portage County","133",,,,,,,,,,,,,,,,,"Portage County, Ohio",25940,"Portage County, Ohio",1641
+"G3901390","2013",,,"Ohio","39","Richland County","139",,,,,,,,,,,,,,,,,"Richland County, Ohio",21181,"Richland County, Ohio",1627
+"G3901410","2013",,,"Ohio","39","Ross County","141",,,,,,,,,,,,,,,,,"Ross County, Ohio",19626,"Ross County, Ohio",1381
+"G3901450","2013",,,"Ohio","39","Scioto County","145",,,,,,,,,,,,,,,,,"Scioto County, Ohio",20512,"Scioto County, Ohio",1777
+"G3901510","2013",,,"Ohio","39","Stark County","151",,,,,,,,,,,,,,,,,"Stark County, Ohio",25379,"Stark County, Ohio",988
+"G3901530","2013",,,"Ohio","39","Summit County","153",,,,,,,,,,,,,,,,,"Summit County, Ohio",28398,"Summit County, Ohio",818
+"G3901550","2013",,,"Ohio","39","Trumbull County","155",,,,,,,,,,,,,,,,,"Trumbull County, Ohio",22896,"Trumbull County, Ohio",898
+"G3901570","2013",,,"Ohio","39","Tuscarawas County","157",,,,,,,,,,,,,,,,,"Tuscarawas County, Ohio",22692,"Tuscarawas County, Ohio",1725
+"G3901650","2013",,,"Ohio","39","Warren County","165",,,,,,,,,,,,,,,,,"Warren County, Ohio",34250,"Warren County, Ohio",2091
+"G3901690","2013",,,"Ohio","39","Wayne County","169",,,,,,,,,,,,,,,,,"Wayne County, Ohio",23044,"Wayne County, Ohio",864
+"G3901730","2013",,,"Ohio","39","Wood County","173",,,,,,,,,,,,,,,,,"Wood County, Ohio",26619,"Wood County, Ohio",1627
+"G4000170","2013",,,"Oklahoma","40","Canadian County","017",,,,,,,,,,,,,,,,,"Canadian County, Oklahoma",26927,"Canadian County, Oklahoma",1341
+"G4000270","2013",,,"Oklahoma","40","Cleveland County","027",,,,,,,,,,,,,,,,,"Cleveland County, Oklahoma",26599,"Cleveland County, Oklahoma",1380
+"G4000310","2013",,,"Oklahoma","40","Comanche County","031",,,,,,,,,,,,,,,,,"Comanche County, Oklahoma",21840,"Comanche County, Oklahoma",1329
+"G4000370","2013",,,"Oklahoma","40","Creek County","037",,,,,,,,,,,,,,,,,"Creek County, Oklahoma",22042,"Creek County, Oklahoma",1149
+"G4001010","2013",,,"Oklahoma","40","Muskogee County","101",,,,,,,,,,,,,,,,,"Muskogee County, Oklahoma",20812,"Muskogee County, Oklahoma",1226
+"G4001090","2013",,,"Oklahoma","40","Oklahoma County","109",,,,,,,,,,,,,,,,,"Oklahoma County, Oklahoma",26336,"Oklahoma County, Oklahoma",730
+"G4001190","2013",,,"Oklahoma","40","Payne County","119",,,,,,,,,,,,,,,,,"Payne County, Oklahoma",21432,"Payne County, Oklahoma",1742
+"G4001250","2013",,,"Oklahoma","40","Pottawatomie County","125",,,,,,,,,,,,,,,,,"Pottawatomie County, Oklahoma",20489,"Pottawatomie County, Oklahoma",1198
+"G4001310","2013",,,"Oklahoma","40","Rogers County","131",,,,,,,,,,,,,,,,,"Rogers County, Oklahoma",27955,"Rogers County, Oklahoma",2346
+"G4001430","2013",,,"Oklahoma","40","Tulsa County","143",,,,,,,,,,,,,,,,,"Tulsa County, Oklahoma",27370,"Tulsa County, Oklahoma",601
+"G4001450","2013",,,"Oklahoma","40","Wagoner County","145",,,,,,,,,,,,,,,,,"Wagoner County, Oklahoma",24876,"Wagoner County, Oklahoma",1460
+"G4100030","2013",,,"Oregon","41","Benton County","003",,,,,,,,,,,,,,,,,"Benton County, Oregon",26293,"Benton County, Oregon",1796
+"G4100050","2013",,,"Oregon","41","Clackamas County","005",,,,,,,,,,,,,,,,,"Clackamas County, Oregon",33838,"Clackamas County, Oregon",1289
+"G4100170","2013",,,"Oregon","41","Deschutes County","017",,,,,,,,,,,,,,,,,"Deschutes County, Oregon",27093,"Deschutes County, Oregon",2367
+"G4100190","2013",,,"Oregon","41","Douglas County","019",,,,,,,,,,,,,,,,,"Douglas County, Oregon",22808,"Douglas County, Oregon",2242
+"G4100290","2013",,,"Oregon","41","Jackson County","029",,,,,,,,,,,,,,,,,"Jackson County, Oregon",23867,"Jackson County, Oregon",1371
+"G4100330","2013",,,"Oregon","41","Josephine County","033",,,,,,,,,,,,,,,,,"Josephine County, Oregon",23866,"Josephine County, Oregon",3035
+"G4100350","2013",,,"Oregon","41","Klamath County","035",,,,,,,,,,,,,,,,,"Klamath County, Oregon",21180,"Klamath County, Oregon",1595
+"G4100390","2013",,,"Oregon","41","Lane County","039",,,,,,,,,,,,,,,,,"Lane County, Oregon",25154,"Lane County, Oregon",1225
+"G4100430","2013",,,"Oregon","41","Linn County","043",,,,,,,,,,,,,,,,,"Linn County, Oregon",20594,"Linn County, Oregon",924
+"G4100470","2013",,,"Oregon","41","Marion County","047",,,,,,,,,,,,,,,,,"Marion County, Oregon",21133,"Marion County, Oregon",715
+"G4100510","2013",,,"Oregon","41","Multnomah County","051",,,,,,,,,,,,,,,,,"Multnomah County, Oregon",31487,"Multnomah County, Oregon",856
+"G4100530","2013",,,"Oregon","41","Polk County","053",,,,,,,,,,,,,,,,,"Polk County, Oregon",23473,"Polk County, Oregon",1826
+"G4100590","2013",,,"Oregon","41","Umatilla County","059",,,,,,,,,,,,,,,,,"Umatilla County, Oregon",19891,"Umatilla County, Oregon",1152
+"G4100670","2013",,,"Oregon","41","Washington County","067",,,,,,,,,,,,,,,,,"Washington County, Oregon",30006,"Washington County, Oregon",944
+"G4100710","2013",,,"Oregon","41","Yamhill County","071",,,,,,,,,,,,,,,,,"Yamhill County, Oregon",27694,"Yamhill County, Oregon",3782
+"G4200010","2013",,,"Pennsylvania","42","Adams County","001",,,,,,,,,,,,,,,,,"Adams County, Pennsylvania",27356,"Adams County, Pennsylvania",1356
+"G4200030","2013",,,"Pennsylvania","42","Allegheny County","003",,,,,,,,,,,,,,,,,"Allegheny County, Pennsylvania",31777,"Allegheny County, Pennsylvania",586
+"G4200050","2013",,,"Pennsylvania","42","Armstrong County","005",,,,,,,,,,,,,,,,,"Armstrong County, Pennsylvania",23867,"Armstrong County, Pennsylvania",1298
+"G4200070","2013",,,"Pennsylvania","42","Beaver County","007",,,,,,,,,,,,,,,,,"Beaver County, Pennsylvania",27538,"Beaver County, Pennsylvania",1291
+"G4200110","2013",,,"Pennsylvania","42","Berks County","011",,,,,,,,,,,,,,,,,"Berks County, Pennsylvania",27288,"Berks County, Pennsylvania",733
+"G4200130","2013",,,"Pennsylvania","42","Blair County","013",,,,,,,,,,,,,,,,,"Blair County, Pennsylvania",23872,"Blair County, Pennsylvania",1125
+"G4200170","2013",,,"Pennsylvania","42","Bucks County","017",,,,,,,,,,,,,,,,,"Bucks County, Pennsylvania",37576,"Bucks County, Pennsylvania",1077
+"G4200190","2013",,,"Pennsylvania","42","Butler County","019",,,,,,,,,,,,,,,,,"Butler County, Pennsylvania",32193,"Butler County, Pennsylvania",1564
+"G4200210","2013",,,"Pennsylvania","42","Cambria County","021",,,,,,,,,,,,,,,,,"Cambria County, Pennsylvania",22262,"Cambria County, Pennsylvania",894
+"G4200250","2013",,,"Pennsylvania","42","Carbon County","025",,,,,,,,,,,,,,,,,"Carbon County, Pennsylvania",23084,"Carbon County, Pennsylvania",1539
+"G4200270","2013",,,"Pennsylvania","42","Centre County","027",,,,,,,,,,,,,,,,,"Centre County, Pennsylvania",25875,"Centre County, Pennsylvania",1329
+"G4200290","2013",,,"Pennsylvania","42","Chester County","029",,,,,,,,,,,,,,,,,"Chester County, Pennsylvania",41741,"Chester County, Pennsylvania",1117
+"G4200330","2013",,,"Pennsylvania","42","Clearfield County","033",,,,,,,,,,,,,,,,,"Clearfield County, Pennsylvania",20810,"Clearfield County, Pennsylvania",1232
+"G4200370","2013",,,"Pennsylvania","42","Columbia County","037",,,,,,,,,,,,,,,,,"Columbia County, Pennsylvania",24025,"Columbia County, Pennsylvania",1393
+"G4200390","2013",,,"Pennsylvania","42","Crawford County","039",,,,,,,,,,,,,,,,,"Crawford County, Pennsylvania",21837,"Crawford County, Pennsylvania",1083
+"G4200410","2013",,,"Pennsylvania","42","Cumberland County","041",,,,,,,,,,,,,,,,,"Cumberland County, Pennsylvania",31469,"Cumberland County, Pennsylvania",1190
+"G4200430","2013",,,"Pennsylvania","42","Dauphin County","043",,,,,,,,,,,,,,,,,"Dauphin County, Pennsylvania",29166,"Dauphin County, Pennsylvania",1324
+"G4200450","2013",,,"Pennsylvania","42","Delaware County","045",,,,,,,,,,,,,,,,,"Delaware County, Pennsylvania",33581,"Delaware County, Pennsylvania",1242
+"G4200490","2013",,,"Pennsylvania","42","Erie County","049",,,,,,,,,,,,,,,,,"Erie County, Pennsylvania",24248,"Erie County, Pennsylvania",1125
+"G4200510","2013",,,"Pennsylvania","42","Fayette County","051",,,,,,,,,,,,,,,,,"Fayette County, Pennsylvania",20650,"Fayette County, Pennsylvania",883
+"G4200550","2013",,,"Pennsylvania","42","Franklin County","055",,,,,,,,,,,,,,,,,"Franklin County, Pennsylvania",27133,"Franklin County, Pennsylvania",1376
+"G4200630","2013",,,"Pennsylvania","42","Indiana County","063",,,,,,,,,,,,,,,,,"Indiana County, Pennsylvania",23042,"Indiana County, Pennsylvania",1363
+"G4200690","2013",,,"Pennsylvania","42","Lackawanna County","069",,,,,,,,,,,,,,,,,"Lackawanna County, Pennsylvania",24632,"Lackawanna County, Pennsylvania",1192
+"G4200710","2013",,,"Pennsylvania","42","Lancaster County","071",,,,,,,,,,,,,,,,,"Lancaster County, Pennsylvania",26645,"Lancaster County, Pennsylvania",757
+"G4200730","2013",,,"Pennsylvania","42","Lawrence County","073",,,,,,,,,,,,,,,,,"Lawrence County, Pennsylvania",23970,"Lawrence County, Pennsylvania",1432
+"G4200750","2013",,,"Pennsylvania","42","Lebanon County","075",,,,,,,,,,,,,,,,,"Lebanon County, Pennsylvania",26667,"Lebanon County, Pennsylvania",1315
+"G4200770","2013",,,"Pennsylvania","42","Lehigh County","077",,,,,,,,,,,,,,,,,"Lehigh County, Pennsylvania",28171,"Lehigh County, Pennsylvania",964
+"G4200790","2013",,,"Pennsylvania","42","Luzerne County","079",,,,,,,,,,,,,,,,,"Luzerne County, Pennsylvania",24456,"Luzerne County, Pennsylvania",967
+"G4200810","2013",,,"Pennsylvania","42","Lycoming County","081",,,,,,,,,,,,,,,,,"Lycoming County, Pennsylvania",24319,"Lycoming County, Pennsylvania",1481
+"G4200850","2013",,,"Pennsylvania","42","Mercer County","085",,,,,,,,,,,,,,,,,"Mercer County, Pennsylvania",23033,"Mercer County, Pennsylvania",970
+"G4200890","2013",,,"Pennsylvania","42","Monroe County","089",,,,,,,,,,,,,,,,,"Monroe County, Pennsylvania",25199,"Monroe County, Pennsylvania",1368
+"G4200910","2013",,,"Pennsylvania","42","Montgomery County","091",,,,,,,,,,,,,,,,,"Montgomery County, Pennsylvania",41206,"Montgomery County, Pennsylvania",1063
+"G4200950","2013",,,"Pennsylvania","42","Northampton County","095",,,,,,,,,,,,,,,,,"Northampton County, Pennsylvania",29802,"Northampton County, Pennsylvania",1113
+"G4200970","2013",,,"Pennsylvania","42","Northumberland County","097",,,,,,,,,,,,,,,,,"Northumberland County, Pennsylvania",22427,"Northumberland County, Pennsylvania",1172
+"G4201010","2013",,,"Pennsylvania","42","Philadelphia County","101",,,,,,,,,,,,,,,,,"Philadelphia County, Pennsylvania",22361,"Philadelphia County, Pennsylvania",537
+"G4201070","2013",,,"Pennsylvania","42","Schuylkill County","107",,,,,,,,,,,,,,,,,"Schuylkill County, Pennsylvania",22890,"Schuylkill County, Pennsylvania",895
+"G4201110","2013",,,"Pennsylvania","42","Somerset County","111",,,,,,,,,,,,,,,,,"Somerset County, Pennsylvania",22361,"Somerset County, Pennsylvania",1365
+"G4201250","2013",,,"Pennsylvania","42","Washington County","125",,,,,,,,,,,,,,,,,"Washington County, Pennsylvania",29327,"Washington County, Pennsylvania",1323
+"G4201290","2013",,,"Pennsylvania","42","Westmoreland County","129",,,,,,,,,,,,,,,,,"Westmoreland County, Pennsylvania",28919,"Westmoreland County, Pennsylvania",1101
+"G4201330","2013",,,"Pennsylvania","42","York County","133",,,,,,,,,,,,,,,,,"York County, Pennsylvania",28015,"York County, Pennsylvania",980
+"G4400030","2013",,,"Rhode Island","44","Kent County","003",,,,,,,,,,,,,,,,,"Kent County, Rhode Island",36468,"Kent County, Rhode Island",3067
+"G4400050","2013",,,"Rhode Island","44","Newport County","005",,,,,,,,,,,,,,,,,"Newport County, Rhode Island",42173,"Newport County, Rhode Island",3693
+"G4400070","2013",,,"Rhode Island","44","Providence County","007",,,,,,,,,,,,,,,,,"Providence County, Rhode Island",25838,"Providence County, Rhode Island",790
+"G4400090","2013",,,"Rhode Island","44","Washington County","009",,,,,,,,,,,,,,,,,"Washington County, Rhode Island",36731,"Washington County, Rhode Island",2111
+"G4500030","2013",,,"South Carolina","45","Aiken County","003",,,,,,,,,,,,,,,,,"Aiken County, South Carolina",23744,"Aiken County, South Carolina",1793
+"G4500070","2013",,,"South Carolina","45","Anderson County","007",,,,,,,,,,,,,,,,,"Anderson County, South Carolina",21842,"Anderson County, South Carolina",1039
+"G4500130","2013",,,"South Carolina","45","Beaufort County","013",,,,,,,,,,,,,,,,,"Beaufort County, South Carolina",32905,"Beaufort County, South Carolina",2042
+"G4500150","2013",,,"South Carolina","45","Berkeley County","015",,,,,,,,,,,,,,,,,"Berkeley County, South Carolina",24436,"Berkeley County, South Carolina",1167
+"G4500190","2013",,,"South Carolina","45","Charleston County","019",,,,,,,,,,,,,,,,,"Charleston County, South Carolina",31056,"Charleston County, South Carolina",1281
+"G4500310","2013",,,"South Carolina","45","Darlington County","031",,,,,,,,,,,,,,,,,"Darlington County, South Carolina",19143,"Darlington County, South Carolina",1599
+"G4500350","2013",,,"South Carolina","45","Dorchester County","035",,,,,,,,,,,,,,,,,"Dorchester County, South Carolina",24074,"Dorchester County, South Carolina",1262
+"G4500410","2013",,,"South Carolina","45","Florence County","041",,,,,,,,,,,,,,,,,"Florence County, South Carolina",21821,"Florence County, South Carolina",2005
+"G4500450","2013",,,"South Carolina","45","Greenville County","045",,,,,,,,,,,,,,,,,"Greenville County, South Carolina",25436,"Greenville County, South Carolina",735
+"G4500470","2013",,,"South Carolina","45","Greenwood County","047",,,,,,,,,,,,,,,,,"Greenwood County, South Carolina",20558,"Greenwood County, South Carolina",1841
+"G4500510","2013",,,"South Carolina","45","Horry County","051",,,,,,,,,,,,,,,,,"Horry County, South Carolina",23021,"Horry County, South Carolina",998
+"G4500570","2013",,,"South Carolina","45","Lancaster County","057",,,,,,,,,,,,,,,,,"Lancaster County, South Carolina",21676,"Lancaster County, South Carolina",2127
+"G4500590","2013",,,"South Carolina","45","Laurens County","059",,,,,,,,,,,,,,,,,"Laurens County, South Carolina",18794,"Laurens County, South Carolina",1339
+"G4500630","2013",,,"South Carolina","45","Lexington County","063",,,,,,,,,,,,,,,,,"Lexington County, South Carolina",26632,"Lexington County, South Carolina",1117
+"G4500730","2013",,,"South Carolina","45","Oconee County","073",,,,,,,,,,,,,,,,,"Oconee County, South Carolina",22416,"Oconee County, South Carolina",1627
+"G4500750","2013",,,"South Carolina","45","Orangeburg County","075",,,,,,,,,,,,,,,,,"Orangeburg County, South Carolina",16862,"Orangeburg County, South Carolina",1181
+"G4500770","2013",,,"South Carolina","45","Pickens County","077",,,,,,,,,,,,,,,,,"Pickens County, South Carolina",22041,"Pickens County, South Carolina",1829
+"G4500790","2013",,,"South Carolina","45","Richland County","079",,,,,,,,,,,,,,,,,"Richland County, South Carolina",24832,"Richland County, South Carolina",1006
+"G4500830","2013",,,"South Carolina","45","Spartanburg County","083",,,,,,,,,,,,,,,,,"Spartanburg County, South Carolina",21664,"Spartanburg County, South Carolina",821
+"G4500850","2013",,,"South Carolina","45","Sumter County","085",,,,,,,,,,,,,,,,,"Sumter County, South Carolina",20217,"Sumter County, South Carolina",1462
+"G4500910","2013",,,"South Carolina","45","York County","091",,,,,,,,,,,,,,,,,"York County, South Carolina",26493,"York County, South Carolina",1269
+"G4600990","2013",,,"South Dakota","46","Minnehaha County","099",,,,,,,,,,,,,,,,,"Minnehaha County, South Dakota",27193,"Minnehaha County, South Dakota",1455
+"G4601030","2013",,,"South Dakota","46","Pennington County","103",,,,,,,,,,,,,,,,,"Pennington County, South Dakota",25783,"Pennington County, South Dakota",1690
+"G4700010","2013",,,"Tennessee","47","Anderson County","001",,,,,,,,,,,,,,,,,"Anderson County, Tennessee",22145,"Anderson County, Tennessee",1418
+"G4700090","2013",,,"Tennessee","47","Blount County","009",,,,,,,,,,,,,,,,,"Blount County, Tennessee",24013,"Blount County, Tennessee",1580
+"G4700110","2013",,,"Tennessee","47","Bradley County","011",,,,,,,,,,,,,,,,,"Bradley County, Tennessee",22381,"Bradley County, Tennessee",2006
+"G4700370","2013",,,"Tennessee","47","Davidson County","037",,,,,,,,,,,,,,,,,"Davidson County, Tennessee",28440,"Davidson County, Tennessee",888
+"G4700590","2013",,,"Tennessee","47","Greene County","059",,,,,,,,,,,,,,,,,"Greene County, Tennessee",18718,"Greene County, Tennessee",1186
+"G4700650","2013",,,"Tennessee","47","Hamilton County","065",,,,,,,,,,,,,,,,,"Hamilton County, Tennessee",26929,"Hamilton County, Tennessee",1196
+"G4700930","2013",,,"Tennessee","47","Knox County","093",,,,,,,,,,,,,,,,,"Knox County, Tennessee",28552,"Knox County, Tennessee",964
+"G4701130","2013",,,"Tennessee","47","Madison County","113",,,,,,,,,,,,,,,,,"Madison County, Tennessee",25484,"Madison County, Tennessee",3615
+"G4701190","2013",,,"Tennessee","47","Maury County","119",,,,,,,,,,,,,,,,,"Maury County, Tennessee",23147,"Maury County, Tennessee",1229
+"G4701250","2013",,,"Tennessee","47","Montgomery County","125",,,,,,,,,,,,,,,,,"Montgomery County, Tennessee",22605,"Montgomery County, Tennessee",1352
+"G4701410","2013",,,"Tennessee","47","Putnam County","141",,,,,,,,,,,,,,,,,"Putnam County, Tennessee",25738,"Putnam County, Tennessee",10030
+"G4701470","2013",,,"Tennessee","47","Robertson County","147",,,,,,,,,,,,,,,,,"Robertson County, Tennessee",22412,"Robertson County, Tennessee",1531
+"G4701490","2013",,,"Tennessee","47","Rutherford County","149",,,,,,,,,,,,,,,,,"Rutherford County, Tennessee",25247,"Rutherford County, Tennessee",1035
+"G4701550","2013",,,"Tennessee","47","Sevier County","155",,,,,,,,,,,,,,,,,"Sevier County, Tennessee",21245,"Sevier County, Tennessee",1389
+"G4701570","2013",,,"Tennessee","47","Shelby County","157",,,,,,,,,,,,,,,,,"Shelby County, Tennessee",25945,"Shelby County, Tennessee",717
+"G4701630","2013",,,"Tennessee","47","Sullivan County","163",,,,,,,,,,,,,,,,,"Sullivan County, Tennessee",23418,"Sullivan County, Tennessee",1112
+"G4701650","2013",,,"Tennessee","47","Sumner County","165",,,,,,,,,,,,,,,,,"Sumner County, Tennessee",27912,"Sumner County, Tennessee",1533
+"G4701790","2013",,,"Tennessee","47","Washington County","179",,,,,,,,,,,,,,,,,"Washington County, Tennessee",25388,"Washington County, Tennessee",1698
+"G4701870","2013",,,"Tennessee","47","Williamson County","187",,,,,,,,,,,,,,,,,"Williamson County, Tennessee",41750,"Williamson County, Tennessee",1981
+"G4701890","2013",,,"Tennessee","47","Wilson County","189",,,,,,,,,,,,,,,,,"Wilson County, Tennessee",27113,"Wilson County, Tennessee",1548
+"G4800050","2013",,,"Texas","48","Angelina County","005",,,,,,,,,,,,,,,,,"Angelina County, Texas",20566,"Angelina County, Texas",1715
+"G4800210","2013",,,"Texas","48","Bastrop County","021",,,,,,,,,,,,,,,,,"Bastrop County, Texas",20572,"Bastrop County, Texas",1447
+"G4800270","2013",,,"Texas","48","Bell County","027",,,,,,,,,,,,,,,,,"Bell County, Texas",22107,"Bell County, Texas",923
+"G4800290","2013",,,"Texas","48","Bexar County","029",,,,,,,,,,,,,,,,,"Bexar County, Texas",23828,"Bexar County, Texas",393
+"G4800370","2013",,,"Texas","48","Bowie County","037",,,,,,,,,,,,,,,,,"Bowie County, Texas",24282,"Bowie County, Texas",3224
+"G4800390","2013",,,"Texas","48","Brazoria County","039",,,,,,,,,,,,,,,,,"Brazoria County, Texas",27854,"Brazoria County, Texas",1019
+"G4800410","2013",,,"Texas","48","Brazos County","041",,,,,,,,,,,,,,,,,"Brazos County, Texas",22042,"Brazos County, Texas",1361
+"G4800610","2013",,,"Texas","48","Cameron County","061",,,,,,,,,,,,,,,,,"Cameron County, Texas",15268,"Cameron County, Texas",831
+"G4800850","2013",,,"Texas","48","Collin County","085",,,,,,,,,,,,,,,,,"Collin County, Texas",37906,"Collin County, Texas",1274
+"G4800910","2013",,,"Texas","48","Comal County","091",,,,,,,,,,,,,,,,,"Comal County, Texas",32306,"Comal County, Texas",2118
+"G4800990","2013",,,"Texas","48","Coryell County","099",,,,,,,,,,,,,,,,,"Coryell County, Texas",20182,"Coryell County, Texas",1472
+"G4801130","2013",,,"Texas","48","Dallas County","113",,,,,,,,,,,,,,,,,"Dallas County, Texas",27433,"Dallas County, Texas",509
+"G4801210","2013",,,"Texas","48","Denton County","121",,,,,,,,,,,,,,,,,"Denton County, Texas",34310,"Denton County, Texas",751
+"G4801350","2013",,,"Texas","48","Ector County","135",,,,,,,,,,,,,,,,,"Ector County, Texas",26923,"Ector County, Texas",1640
+"G4801390","2013",,,"Texas","48","Ellis County","139",,,,,,,,,,,,,,,,,"Ellis County, Texas",25261,"Ellis County, Texas",1269
+"G4801410","2013",,,"Texas","48","El Paso County","141",,,,,,,,,,,,,,,,,"El Paso County, Texas",18340,"El Paso County, Texas",587
+"G4801570","2013",,,"Texas","48","Fort Bend County","157",,,,,,,,,,,,,,,,,"Fort Bend County, Texas",36056,"Fort Bend County, Texas",1280
+"G4801670","2013",,,"Texas","48","Galveston County","167",,,,,,,,,,,,,,,,,"Galveston County, Texas",30182,"Galveston County, Texas",1420
+"G4801810","2013",,,"Texas","48","Grayson County","181",,,,,,,,,,,,,,,,,"Grayson County, Texas",23758,"Grayson County, Texas",1630
+"G4801830","2013",,,"Texas","48","Gregg County","183",,,,,,,,,,,,,,,,,"Gregg County, Texas",25586,"Gregg County, Texas",2576
+"G4801870","2013",,,"Texas","48","Guadalupe County","187",,,,,,,,,,,,,,,,,"Guadalupe County, Texas",25975,"Guadalupe County, Texas",1177
+"G4802010","2013",,,"Texas","48","Harris County","201",,,,,,,,,,,,,,,,,"Harris County, Texas",28100,"Harris County, Texas",408
+"G4802030","2013",,,"Texas","48","Harrison County","203",,,,,,,,,,,,,,,,,"Harrison County, Texas",23531,"Harrison County, Texas",5054
+"G4802090","2013",,,"Texas","48","Hays County","209",,,,,,,,,,,,,,,,,"Hays County, Texas",27162,"Hays County, Texas",1390
+"G4802130","2013",,,"Texas","48","Henderson County","213",,,,,,,,,,,,,,,,,"Henderson County, Texas",21763,"Henderson County, Texas",3091
+"G4802150","2013",,,"Texas","48","Hidalgo County","215",,,,,,,,,,,,,,,,,"Hidalgo County, Texas",14305,"Hidalgo County, Texas",571
+"G4802310","2013",,,"Texas","48","Hunt County","231",,,,,,,,,,,,,,,,,"Hunt County, Texas",21435,"Hunt County, Texas",1632
+"G4802450","2013",,,"Texas","48","Jefferson County","245",,,,,,,,,,,,,,,,,"Jefferson County, Texas",23381,"Jefferson County, Texas",1967
+"G4802510","2013",,,"Texas","48","Johnson County","251",,,,,,,,,,,,,,,,,"Johnson County, Texas",24119,"Johnson County, Texas",1308
+"G4802570","2013",,,"Texas","48","Kaufman County","257",,,,,,,,,,,,,,,,,"Kaufman County, Texas",25073,"Kaufman County, Texas",1312
+"G4802910","2013",,,"Texas","48","Liberty County","291",,,,,,,,,,,,,,,,,"Liberty County, Texas",19346,"Liberty County, Texas",1801
+"G4803030","2013",,,"Texas","48","Lubbock County","303",,,,,,,,,,,,,,,,,"Lubbock County, Texas",24562,"Lubbock County, Texas",1005
+"G4803090","2013",,,"Texas","48","McLennan County","309",,,,,,,,,,,,,,,,,"McLennan County, Texas",22217,"McLennan County, Texas",1511
+"G4803290","2013",,,"Texas","48","Midland County","329",,,,,,,,,,,,,,,,,"Midland County, Texas",37771,"Midland County, Texas",3512
+"G4803390","2013",,,"Texas","48","Montgomery County","339",,,,,,,,,,,,,,,,,"Montgomery County, Texas",32731,"Montgomery County, Texas",1404
+"G4803470","2013",,,"Texas","48","Nacogdoches County","347",,,,,,,,,,,,,,,,,"Nacogdoches County, Texas",21551,"Nacogdoches County, Texas",2639
+"G4803550","2013",,,"Texas","48","Nueces County","355",,,,,,,,,,,,,,,,,"Nueces County, Texas",24095,"Nueces County, Texas",1009
+"G4803610","2013",,,"Texas","48","Orange County","361",,,,,,,,,,,,,,,,,"Orange County, Texas",26647,"Orange County, Texas",2211
+"G4803670","2013",,,"Texas","48","Parker County","367",,,,,,,,,,,,,,,,,"Parker County, Texas",28457,"Parker County, Texas",1905
+"G4803750","2013",,,"Texas","48","Potter County","375",,,,,,,,,,,,,,,,,"Potter County, Texas",22119,"Potter County, Texas",3432
+"G4803810","2013",,,"Texas","48","Randall County","381",,,,,,,,,,,,,,,,,"Randall County, Texas",30089,"Randall County, Texas",1583
+"G4803970","2013",,,"Texas","48","Rockwall County","397",,,,,,,,,,,,,,,,,"Rockwall County, Texas",36423,"Rockwall County, Texas",2958
+"G4804090","2013",,,"Texas","48","San Patricio County","409",,,,,,,,,,,,,,,,,"San Patricio County, Texas",21786,"San Patricio County, Texas",1791
+"G4804230","2013",,,"Texas","48","Smith County","423",,,,,,,,,,,,,,,,,"Smith County, Texas",24752,"Smith County, Texas",1593
+"G4804390","2013",,,"Texas","48","Tarrant County","439",,,,,,,,,,,,,,,,,"Tarrant County, Texas",28701,"Tarrant County, Texas",565
+"G4804410","2013",,,"Texas","48","Taylor County","441",,,,,,,,,,,,,,,,,"Taylor County, Texas",22478,"Taylor County, Texas",1527
+"G4804510","2013",,,"Texas","48","Tom Green County","451",,,,,,,,,,,,,,,,,"Tom Green County, Texas",24753,"Tom Green County, Texas",2080
+"G4804530","2013",,,"Texas","48","Travis County","453",,,,,,,,,,,,,,,,,"Travis County, Texas",33816,"Travis County, Texas",820
+"G4804690","2013",,,"Texas","48","Victoria County","469",,,,,,,,,,,,,,,,,"Victoria County, Texas",24963,"Victoria County, Texas",1575
+"G4804710","2013",,,"Texas","48","Walker County","471",,,,,,,,,,,,,,,,,"Walker County, Texas",16135,"Walker County, Texas",2682
+"G4804790","2013",,,"Texas","48","Webb County","479",,,,,,,,,,,,,,,,,"Webb County, Texas",14625,"Webb County, Texas",742
+"G4804850","2013",,,"Texas","48","Wichita County","485",,,,,,,,,,,,,,,,,"Wichita County, Texas",21853,"Wichita County, Texas",1312
+"G4804910","2013",,,"Texas","48","Williamson County","491",,,,,,,,,,,,,,,,,"Williamson County, Texas",31481,"Williamson County, Texas",1064
+"G4900050","2013",,,"Utah","49","Cache County","005",,,,,,,,,,,,,,,,,"Cache County, Utah",19495,"Cache County, Utah",1179
+"G4900110","2013",,,"Utah","49","Davis County","011",,,,,,,,,,,,,,,,,"Davis County, Utah",25323,"Davis County, Utah",962
+"G4900350","2013",,,"Utah","49","Salt Lake County","035",,,,,,,,,,,,,,,,,"Salt Lake County, Utah",27196,"Salt Lake County, Utah",546
+"G4900490","2013",,,"Utah","49","Utah County","049",,,,,,,,,,,,,,,,,"Utah County, Utah",20938,"Utah County, Utah",585
+"G4900530","2013",,,"Utah","49","Washington County","053",,,,,,,,,,,,,,,,,"Washington County, Utah",23122,"Washington County, Utah",1619
+"G4900570","2013",,,"Utah","49","Weber County","057",,,,,,,,,,,,,,,,,"Weber County, Utah",22479,"Weber County, Utah",814
+"G5000070","2013",,,"Vermont","50","Chittenden County","007",,,,,,,,,,,,,,,,,"Chittenden County, Vermont",34004,"Chittenden County, Vermont",2098
+"G5100030","2013",,,"Virginia","51","Albemarle County","003",,,,,,,,,,,,,,,,,"Albemarle County, Virginia",35105,"Albemarle County, Virginia",2340
+"G5100130","2013",,,"Virginia","51","Arlington County","013",,,,,,,,,,,,,,,,,"Arlington County, Virginia",64298,"Arlington County, Virginia",2518
+"G5100150","2013",,,"Virginia","51","Augusta County","015",,,,,,,,,,,,,,,,,"Augusta County, Virginia",33074,"Augusta County, Virginia",5243
+"G5100190","2013",,,"Virginia","51","Bedford County","019",,,,,,,,,,,,,,,,,"Bedford County, Virginia",29223,"Bedford County, Virginia",2559
+"G5100410","2013",,,"Virginia","51","Chesterfield County","041",,,,,,,,,,,,,,,,,"Chesterfield County, Virginia",31917,"Chesterfield County, Virginia",1393
+"G5100590","2013",,,"Virginia","51","Fairfax County","059",,,,,,,,,,,,,,,,,"Fairfax County, Virginia",49335,"Fairfax County, Virginia",904
+"G5100610","2013",,,"Virginia","51","Fauquier County","061",,,,,,,,,,,,,,,,,"Fauquier County, Virginia",38028,"Fauquier County, Virginia",2815
+"G5100690","2013",,,"Virginia","51","Frederick County","069",,,,,,,,,,,,,,,,,"Frederick County, Virginia",30113,"Frederick County, Virginia",2337
+"G5100850","2013",,,"Virginia","51","Hanover County","085",,,,,,,,,,,,,,,,,"Hanover County, Virginia",33282,"Hanover County, Virginia",1681
+"G5100870","2013",,,"Virginia","51","Henrico County","087",,,,,,,,,,,,,,,,,"Henrico County, Virginia",31853,"Henrico County, Virginia",980
+"G5100950","2013",,,"Virginia","51","James City County","095",,,,,,,,,,,,,,,,,"James City County, Virginia",38353,"James City County, Virginia",2871
+"G5101070","2013",,,"Virginia","51","Loudoun County","107",,,,,,,,,,,,,,,,,"Loudoun County, Virginia",44684,"Loudoun County, Virginia",1313
+"G5101210","2013",,,"Virginia","51","Montgomery County","121",,,,,,,,,,,,,,,,,"Montgomery County, Virginia",23247,"Montgomery County, Virginia",1700
+"G5101530","2013",,,"Virginia","51","Prince William County","153",,,,,,,,,,,,,,,,,"Prince William County, Virginia",36725,"Prince William County, Virginia",802
+"G5101610","2013",,,"Virginia","51","Roanoke County","161",,,,,,,,,,,,,,,,,"Roanoke County, Virginia",30785,"Roanoke County, Virginia",2395
+"G5101650","2013",,,"Virginia","51","Rockingham County","165",,,,,,,,,,,,,,,,,"Rockingham County, Virginia",27353,"Rockingham County, Virginia",3709
+"G5101770","2013",,,"Virginia","51","Spotsylvania County","177",,,,,,,,,,,,,,,,,"Spotsylvania County, Virginia",30439,"Spotsylvania County, Virginia",1072
+"G5101790","2013",,,"Virginia","51","Stafford County","179",,,,,,,,,,,,,,,,,"Stafford County, Virginia",35259,"Stafford County, Virginia",1533
+"G5101990","2013",,,"Virginia","51","York County","199",,,,,,,,,,,,,,,,,"York County, Virginia",34692,"York County, Virginia",1828
+"G5105100","2013",,,"Virginia","51","Alexandria city","510",,,,,,,,,,,,,,,,,"Alexandria city, Virginia",52320,"Alexandria city, Virginia",2126
+"G5105500","2013",,,"Virginia","51","Chesapeake city","550",,,,,,,,,,,,,,,,,"Chesapeake city, Virginia",29246,"Chesapeake city, Virginia",1175
+"G5106500","2013",,,"Virginia","51","Hampton city","650",,,,,,,,,,,,,,,,,"Hampton city, Virginia",23846,"Hampton city, Virginia",1282
+"G5106800","2013",,,"Virginia","51","Lynchburg city","680",,,,,,,,,,,,,,,,,"Lynchburg city, Virginia",20397,"Lynchburg city, Virginia",1829
+"G5107000","2013",,,"Virginia","51","Newport News city","700",,,,,,,,,,,,,,,,,"Newport News city, Virginia",23754,"Newport News city, Virginia",944
+"G5107100","2013",,,"Virginia","51","Norfolk city","710",,,,,,,,,,,,,,,,,"Norfolk city, Virginia",23510,"Norfolk city, Virginia",980
+"G5107400","2013",,,"Virginia","51","Portsmouth city","740",,,,,,,,,,,,,,,,,"Portsmouth city, Virginia",21671,"Portsmouth city, Virginia",1079
+"G5107600","2013",,,"Virginia","51","Richmond city","760",,,,,,,,,,,,,,,,,"Richmond city, Virginia",26540,"Richmond city, Virginia",1388
+"G5107700","2013",,,"Virginia","51","Roanoke city","770",,,,,,,,,,,,,,,,,"Roanoke city, Virginia",22861,"Roanoke city, Virginia",1529
+"G5108000","2013",,,"Virginia","51","Suffolk city","800",,,,,,,,,,,,,,,,,"Suffolk city, Virginia",28461,"Suffolk city, Virginia",1446
+"G5108100","2013",,,"Virginia","51","Virginia Beach city","810",,,,,,,,,,,,,,,,,"Virginia Beach city, Virginia",31973,"Virginia Beach city, Virginia",1005
+"G5300050","2013",,,"Washington","53","Benton County","005",,,,,,,,,,,,,,,,,"Benton County, Washington",28489,"Benton County, Washington",1386
+"G5300070","2013",,,"Washington","53","Chelan County","007",,,,,,,,,,,,,,,,,"Chelan County, Washington",24868,"Chelan County, Washington",2110
+"G5300090","2013",,,"Washington","53","Clallam County","009",,,,,,,,,,,,,,,,,"Clallam County, Washington",26611,"Clallam County, Washington",1485
+"G5300110","2013",,,"Washington","53","Clark County","011",,,,,,,,,,,,,,,,,"Clark County, Washington",27416,"Clark County, Washington",714
+"G5300150","2013",,,"Washington","53","Cowlitz County","015",,,,,,,,,,,,,,,,,"Cowlitz County, Washington",23743,"Cowlitz County, Washington",1604
+"G5300210","2013",,,"Washington","53","Franklin County","021",,,,,,,,,,,,,,,,,"Franklin County, Washington",18581,"Franklin County, Washington",1240
+"G5300250","2013",,,"Washington","53","Grant County","025",,,,,,,,,,,,,,,,,"Grant County, Washington",18590,"Grant County, Washington",1015
+"G5300270","2013",,,"Washington","53","Grays Harbor County","027",,,,,,,,,,,,,,,,,"Grays Harbor County, Washington",20300,"Grays Harbor County, Washington",1558
+"G5300290","2013",,,"Washington","53","Island County","029",,,,,,,,,,,,,,,,,"Island County, Washington",30887,"Island County, Washington",2518
+"G5300330","2013",,,"Washington","53","King County","033",,,,,,,,,,,,,,,,,"King County, Washington",40372,"King County, Washington",703
+"G5300350","2013",,,"Washington","53","Kitsap County","035",,,,,,,,,,,,,,,,,"Kitsap County, Washington",31987,"Kitsap County, Washington",1291
+"G5300410","2013",,,"Washington","53","Lewis County","041",,,,,,,,,,,,,,,,,"Lewis County, Washington",20662,"Lewis County, Washington",1568
+"G5300530","2013",,,"Washington","53","Pierce County","053",,,,,,,,,,,,,,,,,"Pierce County, Washington",27968,"Pierce County, Washington",594
+"G5300570","2013",,,"Washington","53","Skagit County","057",,,,,,,,,,,,,,,,,"Skagit County, Washington",26906,"Skagit County, Washington",1717
+"G5300610","2013",,,"Washington","53","Snohomish County","061",,,,,,,,,,,,,,,,,"Snohomish County, Washington",31777,"Snohomish County, Washington",809
+"G5300630","2013",,,"Washington","53","Spokane County","063",,,,,,,,,,,,,,,,,"Spokane County, Washington",24804,"Spokane County, Washington",714
+"G5300670","2013",,,"Washington","53","Thurston County","067",,,,,,,,,,,,,,,,,"Thurston County, Washington",28429,"Thurston County, Washington",954
+"G5300730","2013",,,"Washington","53","Whatcom County","073",,,,,,,,,,,,,,,,,"Whatcom County, Washington",25624,"Whatcom County, Washington",1243
+"G5300770","2013",,,"Washington","53","Yakima County","077",,,,,,,,,,,,,,,,,"Yakima County, Washington",18387,"Yakima County, Washington",831
+"G5400030","2013",,,"West Virginia","54","Berkeley County","003",,,,,,,,,,,,,,,,,"Berkeley County, West Virginia",25269,"Berkeley County, West Virginia",1819
+"G5400110","2013",,,"West Virginia","54","Cabell County","011",,,,,,,,,,,,,,,,,"Cabell County, West Virginia",24987,"Cabell County, West Virginia",2723
+"G5400330","2013",,,"West Virginia","54","Harrison County","033",,,,,,,,,,,,,,,,,"Harrison County, West Virginia",24628,"Harrison County, West Virginia",2409
+"G5400390","2013",,,"West Virginia","54","Kanawha County","039",,,,,,,,,,,,,,,,,"Kanawha County, West Virginia",28322,"Kanawha County, West Virginia",1681
+"G5400610","2013",,,"West Virginia","54","Monongalia County","061",,,,,,,,,,,,,,,,,"Monongalia County, West Virginia",25902,"Monongalia County, West Virginia",1727
+"G5400810","2013",,,"West Virginia","54","Raleigh County","081",,,,,,,,,,,,,,,,,"Raleigh County, West Virginia",21075,"Raleigh County, West Virginia",1435
+"G5401070","2013",,,"West Virginia","54","Wood County","107",,,,,,,,,,,,,,,,,"Wood County, West Virginia",23543,"Wood County, West Virginia",1247
+"G5500090","2013",,,"Wisconsin","55","Brown County","009",,,,,,,,,,,,,,,,,"Brown County, Wisconsin",27742,"Brown County, Wisconsin",1467
+"G5500250","2013",,,"Wisconsin","55","Dane County","025",,,,,,,,,,,,,,,,,"Dane County, Wisconsin",33873,"Dane County, Wisconsin",1036
+"G5500270","2013",,,"Wisconsin","55","Dodge County","027",,,,,,,,,,,,,,,,,"Dodge County, Wisconsin",23426,"Dodge County, Wisconsin",928
+"G5500350","2013",,,"Wisconsin","55","Eau Claire County","035",,,,,,,,,,,,,,,,,"Eau Claire County, Wisconsin",24773,"Eau Claire County, Wisconsin",1156
+"G5500390","2013",,,"Wisconsin","55","Fond du Lac County","039",,,,,,,,,,,,,,,,,"Fond du Lac County, Wisconsin",26907,"Fond du Lac County, Wisconsin",1298
+"G5500550","2013",,,"Wisconsin","55","Jefferson County","055",,,,,,,,,,,,,,,,,"Jefferson County, Wisconsin",26907,"Jefferson County, Wisconsin",2157
+"G5500590","2013",,,"Wisconsin","55","Kenosha County","059",,,,,,,,,,,,,,,,,"Kenosha County, Wisconsin",25512,"Kenosha County, Wisconsin",1472
+"G5500630","2013",,,"Wisconsin","55","La Crosse County","063",,,,,,,,,,,,,,,,,"La Crosse County, Wisconsin",26065,"La Crosse County, Wisconsin",1457
+"G5500710","2013",,,"Wisconsin","55","Manitowoc County","071",,,,,,,,,,,,,,,,,"Manitowoc County, Wisconsin",26559,"Manitowoc County, Wisconsin",1596
+"G5500730","2013",,,"Wisconsin","55","Marathon County","073",,,,,,,,,,,,,,,,,"Marathon County, Wisconsin",27093,"Marathon County, Wisconsin",1308
+"G5500790","2013",,,"Wisconsin","55","Milwaukee County","079",,,,,,,,,,,,,,,,,"Milwaukee County, Wisconsin",24277,"Milwaukee County, Wisconsin",485
+"G5500870","2013",,,"Wisconsin","55","Outagamie County","087",,,,,,,,,,,,,,,,,"Outagamie County, Wisconsin",27396,"Outagamie County, Wisconsin",1182
+"G5500890","2013",,,"Wisconsin","55","Ozaukee County","089",,,,,,,,,,,,,,,,,"Ozaukee County, Wisconsin",39590,"Ozaukee County, Wisconsin",4000
+"G5500970","2013",,,"Wisconsin","55","Portage County","097",,,,,,,,,,,,,,,,,"Portage County, Wisconsin",24320,"Portage County, Wisconsin",1351
+"G5501010","2013",,,"Wisconsin","55","Racine County","101",,,,,,,,,,,,,,,,,"Racine County, Wisconsin",27391,"Racine County, Wisconsin",1017
+"G5501050","2013",,,"Wisconsin","55","Rock County","105",,,,,,,,,,,,,,,,,"Rock County, Wisconsin",23843,"Rock County, Wisconsin",951
+"G5501090","2013",,,"Wisconsin","55","St. Croix County","109",,,,,,,,,,,,,,,,,"St. Croix County, Wisconsin",33387,"St. Croix County, Wisconsin",2604
+"G5501170","2013",,,"Wisconsin","55","Sheboygan County","117",,,,,,,,,,,,,,,,,"Sheboygan County, Wisconsin",25317,"Sheboygan County, Wisconsin",1071
+"G5501270","2013",,,"Wisconsin","55","Walworth County","127",,,,,,,,,,,,,,,,,"Walworth County, Wisconsin",27480,"Walworth County, Wisconsin",1451
+"G5501310","2013",,,"Wisconsin","55","Washington County","131",,,,,,,,,,,,,,,,,"Washington County, Wisconsin",31869,"Washington County, Wisconsin",1575
+"G5501330","2013",,,"Wisconsin","55","Waukesha County","133",,,,,,,,,,,,,,,,,"Waukesha County, Wisconsin",37430,"Waukesha County, Wisconsin",1052
+"G5501390","2013",,,"Wisconsin","55","Winnebago County","139",,,,,,,,,,,,,,,,,"Winnebago County, Wisconsin",26499,"Winnebago County, Wisconsin",1214
+"G5501410","2013",,,"Wisconsin","55","Wood County","141",,,,,,,,,,,,,,,,,"Wood County, Wisconsin",27504,"Wood County, Wisconsin",2726
+"G5600210","2013",,,"Wyoming","56","Laramie County","021",,,,,,,,,,,,,,,,,"Laramie County, Wyoming",28761,"Laramie County, Wyoming",1745
+"G5600250","2013",,,"Wyoming","56","Natrona County","025",,,,,,,,,,,,,,,,,"Natrona County, Wyoming",31145,"Natrona County, Wyoming",2130
+"G7200130","2013",,,"Puerto Rico","72","Arecibo Municipio","013",,,,,,,,,,,,,,,,,"Arecibo Municipio, Puerto Rico",9043,"Arecibo Municipio, Puerto Rico",840
+"G7200210","2013",,,"Puerto Rico","72","Bayamón Municipio","021",,,,,,,,,,,,,,,,,"Bayamón Municipio, Puerto Rico",13568,"Bayamón Municipio, Puerto Rico",1292
+"G7200250","2013",,,"Puerto Rico","72","Caguas Municipio","025",,,,,,,,,,,,,,,,,"Caguas Municipio, Puerto Rico",12769,"Caguas Municipio, Puerto Rico",783
+"G7200310","2013",,,"Puerto Rico","72","Carolina Municipio","031",,,,,,,,,,,,,,,,,"Carolina Municipio, Puerto Rico",14412,"Carolina Municipio, Puerto Rico",883
+"G7200610","2013",,,"Puerto Rico","72","Guaynabo Municipio","061",,,,,,,,,,,,,,,,,"Guaynabo Municipio, Puerto Rico",22972,"Guaynabo Municipio, Puerto Rico",2298
+"G7200970","2013",,,"Puerto Rico","72","Mayagüez Municipio","097",,,,,,,,,,,,,,,,,"Mayagüez Municipio, Puerto Rico",9973,"Mayagüez Municipio, Puerto Rico",1170
+"G7201130","2013",,,"Puerto Rico","72","Ponce Municipio","113",,,,,,,,,,,,,,,,,"Ponce Municipio, Puerto Rico",9797,"Ponce Municipio, Puerto Rico",751
+"G7201270","2013",,,"Puerto Rico","72","San Juan Municipio","127",,,,,,,,,,,,,,,,,"San Juan Municipio, Puerto Rico",16459,"San Juan Municipio, Puerto Rico",728
+"G7201350","2013",,,"Puerto Rico","72","Toa Alta Municipio","135",,,,,,,,,,,,,,,,,"Toa Alta Municipio, Puerto Rico",13383,"Toa Alta Municipio, Puerto Rico",1417
+"G7201370","2013",,,"Puerto Rico","72","Toa Baja Municipio","137",,,,,,,,,,,,,,,,,"Toa Baja Municipio, Puerto Rico",11547,"Toa Baja Municipio, Puerto Rico",968
+"G7201390","2013",,,"Puerto Rico","72","Trujillo Alto Municipio","139",,,,,,,,,,,,,,,,,"Trujillo Alto Municipio, Puerto Rico",15086,"Trujillo Alto Municipio, Puerto Rico",1863

@@ -1,0 +1,172 @@
+---
+title: "Chipotle HW in R"
+output: html_notebook
+---
+
+In this assignment, we'll redo the chipotle exercises from HW 3 in R. We'll do this using packages from the TidyVerse.
+
+```{r}
+# Q. 1
+library(tidyverse)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+```{r}
+# Q.2
+url = 'https://raw.githubusercontent.com/TheUpshot/chipotle/master/orders.tsv'
+chipo = read_tsv(url)
+```
+
+```{r}
+# Q. 3
+chipo %>% head(n=10)
+chipo %>% tail(n=10)
+```
+```{r}
+# Q. 4
+chipo %>% summary()
+```
+
+
+```{r}
+# Q. 5
+chipo %>% nrow()
+```
+```{r}
+# Q. 6
+chipo %>% ncol()
+```
+
+```{r}
+# Q. 7
+chipo %>% colnames()
+```
+
+```{r}
+# Q. 8
+# The index is not shown.
+```
+
+
+```{r}
+# Q. 9
+chipo %>% select(quantity) %>%  sum()
+```
+
+```{r}
+# Q. 10
+chipo %>% 
+  group_by(item_name) %>% 
+  summarise(sum(quantity)) %>% 
+  arrange(desc(`sum(quantity)`)) %>% 
+  head()
+```
+```{r}
+# Q.11
+chipo %>% 
+  group_by(choice_description) %>% 
+  summarise(sum(quantity)) %>% 
+  arrange(desc(`sum(quantity)`)) %>% 
+  head()
+```
+```{r}
+# Q.12
+chipo$item_price = gsub('[$,]', '', chipo$item_price) %>% as.numeric()
+```
+
+```{r}
+# Q.13
+chipo %>% 
+  select(order_id) %>% 
+  unique() %>% 
+  nrow()
+
+# length(unique(chipo$order_id))
+```
+```{r}
+chipo %>% filter(item_name == '6 Pack Soft Drink') %>%  head()
+```
+
+```{r}
+# Q. 15
+chipo$item_price %>% sum()
+```
+```{r}
+# Q. 16
+chipo %>% group_by(order_id) %>% 
+  summarise(ordersum=sum(item_price)) %>% 
+  summarise(mean(ordersum))
+```
+```{r}
+# Q. 17
+length(unique(chipo$item_name))
+```
+```{r}
+# Q. 18
+chipo %>% filter(item_price > 10.00) %>% nrow()
+```
+
+```{r}
+# Q. 19
+chipo %>% filter(item_name == 'Barbacoa Bowl') %>%  head()
+```
+
+```{r}
+# Q. 20
+
+# Attempt 1
+# ave_price = function(x) {
+#   total_quantity = sum(x$quantity)
+#   total_revenue = sum(x$item_price)
+#   total_revenue/total_quantity
+# }
+# chipo %>% 
+#   group_by(item_name) %>% 
+#   do(ave_price=round(sum(.$quantity)/sum(.$item_price), digits=2)) %>% 
+#   arrange(desc(ave_price))
+
+# Attempt 2
+df = chipo %>% 
+  group_by(item_name) %>% 
+  summarise(total_quantity=sum(quantity), total_revenue=sum(item_price))
+df = df %>% 
+  mutate(ave_price=round(total_revenue/total_quantity, digits=2)) %>% 
+  select(item_name, ave_price) %>%
+  arrange(ave_price)
+df %>% head()
+```
+```{r}
+# Q. 21
+df %>% 
+  arrange(item_name) %>% 
+  head()
+```
+```{r}
+# Q. 22
+# Inefficient method
+chipo %>% arrange(desc(item_price)) %>% head(1)
+# More efficient
+chipo[which.max(chipo$item_price),]
+```
+
+```{r}
+# Q. 23
+chipo %>% filter(item_name == 'Veggie Salad Bowl') %>% nrow()
+```
+```{r}
+# Q. 24 
+chipo %>% filter(item_name == 'Bottled Water', quantity > 1) %>% nrow()
+```
+```{r}
+# Q. 25
+c = chipo %>% 
+  group_by(item_name) %>% 
+  summarise(total_orders=sum(quantity)) %>% 
+  arrange(desc(total_orders)) %>% 
+  head(5)
+ggplot(c) + aes(x=item_name, y =total_orders) + geom_bar(stat = "identity")
+```
+
