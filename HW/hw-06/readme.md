@@ -4,7 +4,7 @@
  - **Paper Replication Exercises:** In this HW you will replicate Bresnahan and Reiss (1991). The assignment is laid out in `replicate-bresnahan-reiss-1991.ipynb`
  - **SQL Exercises:** Complete the reading and exercises as decribed below. Learning the basics of SQL is an important skill to have when working with data. Kaggle makes it easy to learn and practice data science tools. It is a great resource to get experience with.
 
-This assignment is due on GitHub by **Wednesday, May 20th at 11:59 pm**.
+This assignment is due on GitHub by **Monday, May 20th at 11:59 pm**.
 
 
 # SQL Exercises:
