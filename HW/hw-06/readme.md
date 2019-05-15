@@ -11,11 +11,14 @@ This assignment is due on GitHub by **Monday, May 20th at 11:59 pm**.
 
 **Read the Following:**
 
+These are from the [Kaggle SQL Mini-course.](https://www.kaggle.com/learn/SQL)
+
   - [Getting Started with SQL and BigQuery](https://www.kaggle.com/dansbecker/getting-started-with-sql-and-bigquery)
   - [Select, From & Where](https://www.kaggle.com/dansbecker/select-from-where)
   - [Group By, Having & Count](https://www.kaggle.com/dansbecker/group-by-having-count/)
   - [Order By](https://www.kaggle.com/dansbecker/order-by)
   - [As With](https://www.kaggle.com/dansbecker/as-with/code)
+  - [Joining Data](https://www.kaggle.com/dansbecker/joining-data)
 
 
 Also, you may find this [industry survey about data science](https://www.kaggle.com/surveys/2017) interesting.
