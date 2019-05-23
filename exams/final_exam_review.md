@@ -16,6 +16,7 @@ Review Outline
   - On the Bresnehan and Reiss replication assignment, you were asked the following: *Without actually doing it, explain how you would replicate the "Tire Dealers" row of Table 5B.* Be sure that if you were asked to replicate the row of this table, that you could do it.
   - Be prepared to solve some kind of slight variation of the McCall search model or the "cake eating" problem of HW 7.
   - Make sure that you understand the basic concepts of finite-state Markov chains.
+  - Go over asset pricing lecture. You should understand the exercises at the end.
 
 
 Things you don't need to know for the final
