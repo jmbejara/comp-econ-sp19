@@ -1,5 +1,5 @@
-Dynamic Programming
-===================
+Asset Pricing in Finite State Models
+====================================
 
 * **Do Before Class:**
     * Read over the [Finite State Markov Chain lecture](https://lectures.quantecon.org/py/finite_markov.html) on the QuantEcon site.
