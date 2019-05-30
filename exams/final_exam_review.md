@@ -13,7 +13,12 @@ Review Outline
   - You should know how to solve OLS via MLE or via least squares. 
   - Make sure you know how to set up and estimate models with Maximum Likelihood. For example, how would you estimate the parameter of various distributions, given some sample of observations (e.g. a sample from a Bernoulli or Poisson distribution).
   - Be sure that you know how to perform a likelihood ratio test.
-  - On the Bresnehan and Reiss replication assignment, you were asked the following: *Without actually doing it, explain how you would replicate the "Tire Dealers" row of Table 5B.* Be sure that if you were asked to replicate the row of this table, that you could do it.
+  - On the Bresnehan and Reiss replication assignment, you were asked the following: *Without actually doing it, explain how you would replicate the "Tire Dealers" row of Table 5B.* Be sure that if you were asked to replicate the row of this table, that you could do it. Note that there appears to be a typo in the published paper. The row of the table should read as follows:
+
+      |             | s45  | s345 | s2345 | s12345 |
+      |-------------|------|------|-------|--------|
+      | TireDealers | 0.16 | 0.71 | 8.40  | 13.64  |
+
   - Be prepared to solve some kind of slight variation of the McCall search model or the "cake eating" problem of HW 7.
   - Make sure that you understand the basic concepts of finite-state Markov chains.
   - Go over asset pricing lecture. You should understand the exercises at the end.
