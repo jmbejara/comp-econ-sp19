@@ -22,6 +22,7 @@ Review Outline
   - Be prepared to solve some kind of slight variation of the McCall search model or the "cake eating" problem of HW 7.
   - Make sure that you understand the basic concepts of finite-state Markov chains.
   - Go over asset pricing lecture. You should understand the exercises at the end.
+  - Go over the exercises at the end of the [linear state-space lecture](https://lectures.quantecon.org/py/linear_models.html) on QuantEcon.  
 
 
 Things you don't need to know for the final
