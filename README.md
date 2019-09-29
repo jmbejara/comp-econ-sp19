@@ -11,7 +11,7 @@ ECON 21410: Computational Methods in Economics
 * **Office Hours:** Wednesday 5:30-6:20 PM in SHFE 203
 * **Teaching Assistant:** Ari Boyarsky, aboyarsky@uchicago.edu
 * **TA Office Hours:** Mondays, 10-11 am in the graduate commons (Saieh 201)
-* **Website:** Canvas will be used for grades. Homework and notes will be posted on the course GitHub repo: https://github.com/jmbejara/comp-econ-sp18
+* **Website:** Canvas will be used for grades. Homework and notes will be posted on the course GitHub repo: https://github.com/jmbejara/comp-econ-sp19
 
 # Notes
 
