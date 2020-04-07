@@ -1,6 +1,6 @@
 # HW 1
 
-HW 1 is described in [`HW1.ipynb`](https://github.com/jmbejara/comp-econ-sp19/blob/master/HW/hw-01/HW1.ipynb). A blank code or markup cell will be left after each exercise for you to fill in with your solution.
+HW 1 is described in [`HW1.ipynb`](./HW1.ipynb). A blank code or markup cell will be left after each exercise for you to fill in with your solution.
 
 # Due Date
 
