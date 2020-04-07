@@ -11,7 +11,7 @@ The Monte Carlo Method
 
 # Monte Carlo Method Lecture
 
-In our discussion of Monte Carlo methods, we will do the following. This is done in `Monte_Carlo_Demo.ipynb`.
+In our discussion of Monte Carlo methods, we will do the following. This is done in [`Monte_Carlo_Demo.ipynb`](./Monte_Carlo_Demo.ipynb).
 
   - Discuss the theoretical motivation of Monte Carlo methods (integration, generate distribution)
   - Discuss ommited variable bias

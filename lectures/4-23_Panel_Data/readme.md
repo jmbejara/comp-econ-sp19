@@ -12,4 +12,4 @@ In this lecture, we will discuss panel data, how to use it in Pandas, and we'll 
 
  
  - Theory Slides: https://dss.princeton.edu/training/Panel101.pdf
- - How to run these regressions in Python (as well as in R and Stata): `Fixed-and-Random-Effects-Rosetta-Stone.ipynb`
+ - How to run these regressions in Python (as well as in R and Stata): [`Fixed-and-Random-Effects-Rosetta-Stone.ipynb`](./Fixed-and-Random-Effects-Rosetta-Stone.ipynb)
