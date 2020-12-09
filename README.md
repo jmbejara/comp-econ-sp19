@@ -3,6 +3,10 @@ ECON 21410: Computational Methods in Economics
 
 # Syllabus Summary
 
+**Course Description**
+This course introduces the empirical and computational techniques necessary for numerically solving and estimating economic models. The course covers topics in numerical methods, such as optimization, function approximation, and Monte Carlo techniques, as well as topics in data exploration, visualization, and estimation. Emphasis will be placed on developing effective programming and research practices. The course is structured through a series of applications in such topics as macroeconomic fluctuations, industrial organization, and asset pricing. The course will be taught primarily in Python. Though helpful, no previous experience with computer programming is necessary for this class. 
+
+
 [The full class syllabus can be found here.](https://github.com/jmbejara/comp-econ-sp19/blob/master/Syllabus-Computational-Economics.pdf)
 
 * **Class:** Tuesdays and Thursdays, 3:30 - 4:50 PM in SHFE 103
